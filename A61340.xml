@@ -1,0 +1,940 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The state of Ireland, with a vindication of the Act of Settlement and commissioners proceedings, &amp;c. also, reflections on the late Coventry-letter writ by an eminent councellor of that kingdom, wherein the said author endeavours to prove, that it was not for murther, nor rebellion, but religion that the Irish estates were sequestred by the forementioned act / by a person of honour.</title>
+            <author>Person of honour.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61340</idno>
+            <idno type="STC">Wing S5301</idno>
+            <idno type="STC">ESTC R22558</idno>
+            <idno type="EEBO-CITATION">12621430</idno>
+            <idno type="OCLC">ocm 12621430</idno>
+            <idno type="VID">64531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64531)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 335:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The state of Ireland, with a vindication of the Act of Settlement and commissioners proceedings, &amp;c. also, reflections on the late Coventry-letter writ by an eminent councellor of that kingdom, wherein the said author endeavours to prove, that it was not for murther, nor rebellion, but religion that the Irish estates were sequestred by the forementioned act / by a person of honour.</title>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>[2], 48 [i.e. 50] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Pages 7-10 and 43-44 are tightly bound in the filmed copy. Pages 7-end photographed from Union Theological Seminary Library, New York copy and inserted at the end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Ireland --  History --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:64531:1"/>
+            <pb n="1" facs="tcp:64531:1"/>
+            <head>A Defence of the Preſent Settlement in IRELAND.</head>
+            <p>BY a LETTER pretended to be written from <hi>COVENTRY,</hi> dated the 26th. of <hi>October,</hi>
+1686. and ſeveral other <hi>Papers,</hi> which have been carefully diſperſed by ſome Perſons; who ſeem diſaffected, that the <hi>Britiſh</hi> are Poſſeſs'd of ſo many
+<hi>Eſtates</hi> former<g ref="char:EOLhyphen"/>ly belonging to <hi>Iriſh Proprietors,</hi> and with the <hi>Pre<g ref="char:EOLhyphen"/>ſent State</hi> of <hi>Affairs:</hi> 'Tis apparent, That there are Thoſe that endeavour, as much as in them lies, to break the <hi>Settlement</hi> of that <hi>Kingdom</hi> of <hi>Ireland;</hi> from which His late <hi>Majeſty</hi> reaped more Profit, than all His <hi>Anceſtors</hi> before Him ever receiv'd from that <hi>Iſland:</hi> And <hi>England</hi> has been eas'd of thoſe great Expences of <hi>Blood</hi> and <hi>Treaſure,</hi> that the frequent <hi>Rebellions</hi> of that
+<hi>Kingdom</hi> did for<g ref="char:EOLhyphen"/>merly occaſion. And although I do not imagin, That any Suggeſtions, how confidently ſoever <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſerted, will be able to divert our <hi>Soveraign</hi> from
+<pb n="2" facs="tcp:64531:2"/>the Rules of <hi>Juſtice,</hi> or the Intereſt of His <hi>Crown:</hi> Yet I think it reaſonable, for the Satisfaction of Thoſe to whom that Share I have in
+<hi>Ireland</hi> may come, to ſet down what I know of that <hi>Settlement,</hi> whil'ſt freſh in Memory; that they may here<g ref="char:EOLhyphen"/>after underſtand upon what <hi>Foundation</hi> their <hi>Title</hi> is built; and endeavour (and that without <hi>Scru<g ref="char:EOLhyphen"/>ple</hi>) by all lawful Means to <hi>Enjoy</hi> and <hi>Defend</hi> It. I intend no <hi>Reflection</hi> upon any <hi>Particular Perſon;</hi> nor can I, without Trouble, mention the <hi>Sad Ac<g ref="char:EOLhyphen"/>cidents,</hi> which happen'd between the Years 1640. and 1660. in <hi>Ireland:</hi> Were I not forc'd to it, I ſhould eſteem it indecent to uſe the term <hi>IRISH REBELLION;</hi> but 'tis now made neceſſary: Let the Blame therefore lie on Him that gave the Occaſion. However, I ſhall not offer any <hi>Thing,</hi> but what I
+<hi>Know,</hi> or have good Reaſon to <hi>Believe</hi> True; and no more of <hi>That</hi> neither, than is Pertinent.</p>
+            <p>The <hi>Queſtion</hi> then being, <hi>Whether it be Reaſon<g ref="char:EOLhyphen"/>able, at this Time, to break the Settlement of</hi> Ireland? The <hi>Juſtice</hi> of it will firſt fall under Conſidera<g ref="char:EOLhyphen"/>tion.</p>
+            <p>In the next place, Suppoſing ſome <hi>Objections</hi> might have been made to the
+<hi>Settlement at firſt; Whether, at this Time, they can be juſtly hearken'd to?</hi>
+            </p>
+            <pb n="3" facs="tcp:64531:2"/>
+            <p>
+               <hi>Laſtly,</hi> I ſhall make ſome <hi>Obſervations</hi> on the
+<hi>Co<g ref="char:EOLhyphen"/>ventry-Letter,</hi> and the <hi>Pamphlet</hi> from which the AUTHOR of that <hi>LETTER</hi> deriveth many of his <hi>Arguments;</hi> call'd, <hi>A Narrative of the Sale and Settlement of</hi> Ireland.</p>
+            <p>To prove the <hi>Settlement</hi> Juſt, which is Found<g ref="char:EOLhyphen"/>ed upon the <hi>Forfeiture</hi> of a conſiderable Part of the <hi>Land</hi> of that <hi>Kingdom;</hi> it will be neceſſary to ſhew, That there was a <hi>Rebellion</hi> in <hi>Ireland,</hi> which began the 23d. of
+<hi>October,</hi> 1641. and that almoſt general.</p>
+            <p n="1">I. <hi>Firſt,</hi> For this I ſhall offer (as the beſt Proofs that can be produc'd) ſeveral <hi>Acts</hi> of <hi>Parliament;</hi> as the <hi>Four Acts</hi> of <hi>Parliament</hi> Paſſed in <hi>England,</hi> 17<hi rend="sup">0.</hi> 
+               <hi>Car.</hi> I. where this <hi>Rebellion</hi> is declar'd, in the Judgment of that <hi>Parliament,</hi> ſo general, that ma<g ref="char:EOLhyphen"/>ny <hi>Millions</hi> of
+<hi>Acres</hi> would be Forfeited by it: The <hi>Act</hi> of <hi>Settlement,</hi> which is a brief
+<hi>Narrative</hi> of the <hi>Rebellion</hi> therein, ſtiled almoſt <hi>National; The Confederates being Repreſented in a General Aſſem<g ref="char:EOLhyphen"/>bly, Choſen by Themſelves, and Acting by a Supream Councel; Exerciſing the Power of Life and Death; Ma<g ref="char:EOLhyphen"/>king Peace and War; Levying and Coyning Money; Treat<g ref="char:EOLhyphen"/>ing with Foreign Princes, for their Government and Pro<g ref="char:EOLhyphen"/>tection; and Acting under a Foreign Authority:</hi> Which are the Words of the <hi>Act;</hi> not Words of courſe,
+<pb n="4" facs="tcp:64531:3"/>but of certain Truth; as many could well re<g ref="char:EOLhyphen"/>member, that were living when the
+<hi>Act</hi> was a<g ref="char:EOLhyphen"/>greed upon: And the <hi>Iriſh Agents</hi> then diſputed all particulars, where they had the leaſt pre<g ref="char:EOLhyphen"/>tence of Denyal; yet theſe things were made good to their Faces, and by the late King, di<g ref="char:EOLhyphen"/>rected to be inſerted as the Foundation of the intended
+<hi>Settlement.</hi> The <hi>Act</hi> likewiſe that paſ<g ref="char:EOLhyphen"/>ſed the 14 of King <hi>Charles</hi> the Second, <hi>Ceſſe.</hi> 23. <hi>For the keeping the</hi> 23. <hi>of</hi> October 1641.
+<hi>To Seize the Caſtle and City of</hi> Dublin, <hi>and all other Cities in the Realm; To cut off all the</hi> Engliſh <hi>in that Kingdom; and to deprive King</hi> Charles <hi>the Firſt of His Crown and Soveraignty.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Iriſh</hi> do acknowledge, that there was a <hi>Ceſſation,</hi> a <hi>Peace</hi> made 1646, and another in 1648. between Them and King <hi>Charles</hi> the Firſt, or thoſe <hi>Authorized</hi> by Him: <hi>Doth not this neceſſarily Imply a War?</hi> and what is a <hi>War,</hi> by <hi>Subjects</hi> man<g ref="char:EOLhyphen"/>naged againſt their lawful <hi>King,</hi> but a <hi>Rebellion?</hi>
+            </p>
+            <p>Theſe Tranſactions were in the <hi>Names of the General Aſſembly of the Confederate Roman Catholicks of</hi> Ireland; which comprehended the whole <hi>Nation:</hi> And if any of the
+<hi>Iriſh Confederates</hi> declared them<g ref="char:EOLhyphen"/>ſelves againſt this <hi>Aſſembly,</hi> as not included in it, let thoſe that know them, Name them for their <hi>Eternal honour.</hi>
+            </p>
+            <pb n="5" facs="tcp:64531:3"/>
+            <p>
+               <hi>Thirdly,</hi> The <hi>Rebellion</hi> was ſo General, that in ſeven Counties of the Kingdom, by the begin<g ref="char:EOLhyphen"/>ing of the Year 1643, there were 3000, <hi>Outlawed</hi> for <hi>High Treaſon;</hi> In eleven other Counties, there were at leaſt 3000 <hi>Outlawed</hi> for their
+<hi>Rebellion;</hi> but the Power of the <hi>Rebels</hi> was ſo Great, that they could not be
+<hi>Outlawed:</hi> And as for the whole Province of <hi>Gonaught,</hi> the Counties of
+<hi>Tippeary, Limerick,</hi> and <hi>Kerry,</hi> and the reſt of the <hi>Kingdom,</hi> the Defection was ſo Univerſal, that the King had neither <hi>Sheriffs, Coroners,</hi> nor any other Miniſters of <hi>Juſtice,</hi> to proceed againſt the <hi>Delinquents.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> The <hi>Oaths</hi> of <hi>Aſſociation,</hi> That the <hi>Ge<g ref="char:EOLhyphen"/>neral Aſſembly,</hi> and <hi>Supream Council,</hi> oblig'd perſons within their Power to take, directing them to be Adminiſtred by the <hi>Clergy</hi> in every Pariſh, could not but Involve all that lived within their Quarters (which, firſt or laſt, were almoſt over the whole
+<hi>Kingdom</hi>) in an equal <hi>Guilt,</hi> unleſs pre<g ref="char:EOLhyphen"/>ſerv'd by <hi>Miracle:</hi> And if there be any ſuch, the Naming of them would give the World much Satisfaction.</p>
+            <p>Certainly, from theſe <hi>Particulars</hi> conſidered together, we may be ſatisfied of the
+<hi>Truth</hi> of that <hi>Expreſſion</hi> in the <hi>Act of Settlement, That the Rebellion
+<pb n="6" facs="tcp:64531:4"/>ſpread it ſelf univerſally over the whole Kingdom.</hi>
+            </p>
+            <p>I ſhall ſay nothing of the <hi>Barbarous carriage</hi> of the <hi>Iriſh,</hi> at the breaking out of the <hi>Rebellion,</hi> to perſons that had given them no <hi>Provocation,</hi> which appeared by ſeveral <hi>Examinations</hi> taken upon <hi>Oath</hi> by vertue of the
+<hi>Kings Commiſſion,</hi> when things were freſh in <hi>Memory.</hi> This only may be deſired from thoſe who deny any of the <hi>Relations</hi> pub<g ref="char:EOLhyphen"/>liſhed of thoſe
+<hi>Cruelties,</hi> to name the <hi>Places</hi> where any of the <hi>Britiſh</hi> were permitted to Live in <hi>Iriſh Quarters;</hi> before the <hi>Ceſſation;</hi> but were
+<hi>Murdered,</hi> or utterly <hi>Ruin'd.</hi> Many have been <hi>Inquiſitive,</hi> but could never hear of any one <hi>Family</hi> that eſ<g ref="char:EOLhyphen"/>caped them unhurt, unleſs they joyned with them; except ſome few that were <hi>Protected</hi> by the late Earl of <hi>Clanriskard.</hi>
+            </p>
+            <p>The <hi>Rebellion</hi> being ſo hainous and general, as appears by the above Proofs; It clearly ap<g ref="char:EOLhyphen"/>pears, that the <hi>Lands</hi> forfeited by the <hi>Rebels,</hi> might juſtly be diſpoſed to others. That <hi>Engliſh</hi> Kings have diſpoſed of Lands forfeited for
+<hi>Treaſon,</hi> hath been every where ſo common, but in <hi>England</hi> eſpecially, is a matter ſo well known, that it needs no Evidence. The King by the <hi>Law</hi> hath an abſolute
+<hi>Right</hi> in ſuch <hi>Lands,</hi> which he may give as he thinks fit; but thoſe that were
+<pb n="7" facs="tcp:64531:4"/>in <hi>Poſſeſsion</hi> of thoſe <hi>forfeited Lands</hi> in
+<hi>Ireland,</hi> at King <hi>Charles</hi> the <hi>Seconds Reſtauration,</hi> had this, be<g ref="char:EOLhyphen"/>ſides the Kings meer <hi>Favour,</hi> to offer for them<g ref="char:EOLhyphen"/>ſelves; <hi>That they had been very Early in appearing for His Return: That they had without Conditions, delivered the Kingdom into His Hands: That ſome of them had adventured their Money, others their Lives, to obtain the Poſſeſsion, which they ſo readily (without any Capitu<g ref="char:EOLhyphen"/>lation) ſubmitted to His Will.</hi>
+            </p>
+            <p>The <hi>Adventurers</hi> alſo, by Four <hi>Acts of Parliament</hi> made in <hi>England,</hi>
+17 <hi>Car.</hi> I. yet in Force, had a <hi>Juſt Right</hi> to a conſiderable
+<hi>Satisfaction</hi> upon theſe <hi>Laws:</hi> They had <hi>Advanced</hi> at leaſt
+<abbr>300000 <hi>l.</hi>
+               </abbr> yet have in their <hi>Poſſeſſion</hi> but a ſmall part of what was intended them; for had the <hi>Acts</hi> of the <hi>Engliſh Parliament</hi> been purſued, and they not obliged to a <hi>Retrenchment</hi> of a <hi>Third Part</hi> of their
+<hi>Debt,</hi> to the <hi>Payment</hi> of a <hi>Years Value,</hi> to the charg<g ref="char:EOLhyphen"/>able paſſing of
+<hi>Courts of Claimes</hi> and <hi>Letters Patents,</hi> to none of which they were ſubject by theſe <hi>Laws,</hi> their ſatisfaction had been four times as great as now it is.</p>
+            <p>It hath been <hi>Objected</hi> by ſome, <hi>That part of the Money Adventured, was mis-imploy'd by thoſe in Arms againſt the King in</hi> England: To which may be truly Anſwered, <hi>That vaſt Sums of Money, much more
+<pb n="8" facs="tcp:64531:5"/>than</hi> 
+               <abbr>300000 <hi>l.</hi>
+               </abbr> 
+               <hi>Adventured, had been ſent out of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>towards the ſtopping of the Rebellion, even before the Ceſſation; and that the Adventurers could not call the then Parliament of</hi> England <hi>to Account how they then diſpoſed of their Moneys, the King having left the Man<g ref="char:EOLhyphen"/>nagement of the War of</hi> Ireland
+<hi>to Them by the</hi> Act <hi>of the</hi> 17 Car. I. 'Tis further apparent, That the earneſt endeavours of King <hi>Charles</hi> the Firſt, to ſuppreſs the <hi>Rebellion,</hi> was that which gave moſt Encouragement to perſons who adventured their Money; from this, That after his leaving the <hi>Parliament,</hi> nothing conſiderable could be <hi>Levied</hi> upon this
+<hi>Pretence,</hi> though much more fa<g ref="char:EOLhyphen"/>vourable <hi>Conditions</hi> were offered.</p>
+            <p>Others except againſt the <hi>Adventurers ſatiſ<g ref="char:EOLhyphen"/>faction</hi> as not ſet out purſuant to the <hi>Engliſh Acts:</hi> to which may be returned, That none <hi>Suffered</hi> by that, but themſelves; for by theſe <hi>Acts</hi> they were to have had <hi>Boggs, Woods,</hi> and
+<hi>Barren Moun<g ref="char:EOLhyphen"/>tains,</hi> caſt into the <hi>Meaſurement.</hi> The <hi>Quit-Rent</hi> to have been paid to the King, was not to have been near ſo much as now it is; They were to have had more
+<hi>Acres</hi> by a <hi>Third</hi> part, than now they enjoy; every <hi>Adventurer,</hi> upon drawing his Lott, ſhould (without <hi>Claim, Letters Patents, Pay<g ref="char:EOLhyphen"/>ment of a Years Value,</hi> or any other <hi>Charges</hi>) have
+<pb n="9" facs="tcp:64531:5"/>been <hi>Seized</hi> by virtue of an <hi>Act of Parliament</hi> of his
+<hi>Proportion,</hi> which, if it conſiſted of 1000 <hi>Acres,</hi> or more, it might have been erected by him into a <hi>Manner,</hi> with extraordinary <hi>Priviledges;</hi> They had a
+<hi>Juſt Right,</hi> and there was no other way to come by it.</p>
+            <p>Certainly, there was as much reaſon to con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irm This, as any Judicial Proceedings in the <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers Government.</hi> And the
+<hi>King</hi> and <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> in the <hi>Act of Oblivion</hi> that Paſſed in 1660, are of this Opinion; for there they declare, That, that <hi>Act</hi> ſhall not enure to reſtore to any Perſon (except the Marqueſs of <hi>Ormond,</hi> and the <hi>Prote<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tants</hi> of <hi>Ireland,</hi> &amp;c.) any Eſtate in
+<hi>Ireland</hi> diſpo<g ref="char:EOLhyphen"/>ſed of by both or either Houſe of <hi>Parliament,</hi> or any
+<hi>Convention,</hi> &amp;c. or any Perſon deriving <hi>Au<g ref="char:EOLhyphen"/>thority</hi> from them.</p>
+            <p>There are others of the <hi>Britiſh,</hi> that have had ſatisfaction by theſe
+<hi>Laws.</hi>
+            </p>
+            <p>The <hi>Military</hi> Officers, that had faithfully Served the <hi>King</hi> in that
+<hi>Kingdom</hi> before the 5th of <hi>June</hi> 1649, the Perſons againſt whoſe
+<hi>Loyalty</hi> there could be no <hi>Objection;</hi> many of them left their Wives and Families in a Miſerable Condi<g ref="char:EOLhyphen"/>tion, that they might go into <hi>England</hi> to the Aſſi<g ref="char:EOLhyphen"/>ſtance of King <hi>Charles</hi> the Firſt; where ſeveral
+<pb n="10" facs="tcp:64531:6"/>of them loſt their Lives in His Service, and the reſt, upon all occaſions, appeared for the <hi>Royal Intereſt,</hi> and never received any Satisfaction in <hi>Lands</hi> or <hi>Money,</hi> until King <hi>Charles</hi> the Second, of his own <hi>Juſtice</hi> and
+<hi>Bounty,</hi> gave it them by the <hi>Act of Settlement:</hi> Theſe Men were ſifted with the greateſt <hi>Care,</hi> and all excluded that had <hi>Betray'd</hi> any Towns in
+<hi>Munſter,</hi> or done any <hi>Service</hi> to the <hi>Uſurper.</hi>
+            </p>
+            <p>Having now ſhewn that there was a <hi>Rebellion</hi> in <hi>Ireland,</hi> by which much Land was <hi>Forfeited,</hi> which was diſpoſed at the <hi>Kings Pleaſure,</hi> and that the Perſons that were in Poſſeſſion of the <hi>For<g ref="char:EOLhyphen"/>feited</hi> Lands, at the
+<hi>Reſtauration</hi> of King <hi>Charles</hi> the Second, had fair pretences to have grants of the <hi>Kings Tythe.</hi> In the next place, I ſhould Prove that the <hi>Acts of Settlement,</hi> by which part of theſe <hi>Forfeited Lands</hi> were paſſed to <hi>Adventu<g ref="char:EOLhyphen"/>rers, Souldiers,</hi> and others of the <hi>Engliſh</hi> Nation, are for ſo much as concerns theſe new <hi>Intereſts,</hi> agreeable to the rules of <hi>Juſtice.</hi>
+            </p>
+            <p>But firſt, It will be neceſſary to <hi>Anſwer</hi> an <hi>Ob<g ref="char:EOLhyphen"/>jection</hi> they Stated.</p>
+            <p>
+               <hi>Suppoſe</hi> (<hi>Say the</hi> Advocates <hi>for the Forfeiting</hi> Iriſh) <hi>there were ſuch a</hi> Rebellion <hi>as is Pretended: Yet thes</hi> Confederate Catholicks <hi>in the Year</hi> 1643, <hi>made a</hi>
+               <pb n="11" facs="tcp:64531:6"/>Ceſſation <hi>with King</hi> Charles <hi>the Firſt, which in</hi> 1646,
+<hi>was turned into a Peace, and that followed by another Peace in</hi> 1648, <hi>Concluded the</hi> 17 <hi>of</hi> January <hi>by the Duke of</hi> Ormond, <hi>by which</hi> Article,
+<hi>the</hi> 18th, <hi>the</hi> King <hi>Promiſeth that an</hi> Act of Oblivion <hi>ſhould Paſs in the next</hi> Iriſh <hi>Parliament, to extend to all Perſons, Before, In, or ſince the</hi> 14th <hi>of</hi> October, 1641. <hi>By this</hi> Article, <hi>they ſay, the</hi> King
+<hi>being obliged to</hi> Par<g ref="char:EOLhyphen"/>don <hi>them the</hi> Rebellion, <hi>could not juſtly diſpoſe of their Lands as</hi> Forefeited.</p>
+            <p>To this, take this following <hi>Anſwer.</hi>
+            </p>
+            <p>
+               <hi>'Tis Apparent that the</hi> Articles <hi>of the</hi> Ceſſation <hi>were not kept by they</hi> Confederates, <hi>they never Paying the</hi> 30800 <abbr>l.</abbr> 
+               <hi>nor ſending the</hi> Succors, <hi>they were to give his</hi> Majeſty, <hi>according to</hi> Agreement.
+<hi>The Peace in</hi> 1646, <hi>was ſo far from being comply'd with, that theſe</hi> Confederate Catholicks <hi>ſoon call'd a</hi> General Aſſembly <hi>that diſowned it, Impriſoning their own</hi> Commiſſioners <hi>that made it; and ſent an Army under</hi> Owen Roe o Neile <hi>and</hi> Preſton, <hi>to Attempt</hi> Dub<g ref="char:EOLhyphen"/>lin; <hi>for clearing of which</hi> Particular, <hi>I ſhall refer to the Memoires of</hi> James <hi>Earl of</hi> Caſtle haven,
+<hi>Sect.</hi> 6th. <hi>and this further cannot but be taken Notice of, That, that noble Earl acknowledges himſelf the only Per<g ref="char:EOLhyphen"/>ſon of the</hi> Confederates, <hi>that never left the Duke of</hi> Ormond <hi>in thoſe</hi> Adventures, <hi>and gave him his Ad<g ref="char:EOLhyphen"/>vice
+<pb n="12" facs="tcp:64531:7"/>for giving up</hi> Dublin, <hi>&amp;c. to the</hi> Engliſh <hi>Parlia<g ref="char:EOLhyphen"/>ment, Induced by this Conſideration, that if the</hi> Nuncio, <hi>and his</hi> Party, <hi>ſhould have</hi> Ireland, <hi>it might remain ſeperate from</hi> England <hi>for ever.</hi>
+            </p>
+            <p>That many of the <hi>Confederate Roman Catholicks</hi> broke the <hi>Articles</hi> of
+<hi>Peace</hi> made in 1648, will appear by a <hi>Declaration</hi> of the Confederate
+<hi>Iriſh</hi> Army, dated from <hi>James Town</hi> the 12th of <hi>Auguſt,</hi> 1650, (Printed in the Year 1674, in a Book Inti<g ref="char:EOLhyphen"/>tuled, <hi>The Hiſtory of the Loyal Formulary,</hi> &amp;c. writ<g ref="char:EOLhyphen"/>ten by Mr. <hi>Peter Walſh</hi>) by which they abſolutely diſown the <hi>Kings Authority,</hi> and <hi>Excommunicate</hi> all that adhere to it, which wrought ſo with thoſe of their <hi>Religion,</hi> that many of them cannot be pretended to have continued ſtanch.</p>
+            <p>But the <hi>Objectors</hi> will ſtill ſay, <hi>There have been ſome Perſons, and ſome Corporations, that never broke thoſe Articles, and with what Juſtice can they be denyed the benefit of them?</hi>
+            </p>
+            <p>To Solve this, 'tis fit to conſider, that the moſt moderate of the <hi>Confederates,</hi> would not agree to a <hi>Ceſsation</hi> or <hi>Peace</hi> with King <hi>Charles</hi> the I. in his neceſſity; (whereby he might be at Liberty to make uſe of his <hi>Britiſh Army,</hi> then in that <hi>Kingdom</hi> in his other <hi>Dominions</hi>) without <hi>Ceſſations</hi> of ſuch a nature as <hi>Loyal Subjects</hi> would never have re<g ref="char:EOLhyphen"/>quired: For Inſtance.</p>
+            <pb n="13" facs="tcp:64531:7"/>
+            <p>By the 11th. <hi>Article</hi> they pretended to exclude ſuch Noblemen of the <hi>Britiſh Extraction,</hi> as had Titles in that <hi>Kingdom,</hi> from <hi>Voting</hi> in
+<hi>Parliament,</hi> unleſs qualified as they directed.</p>
+            <p>
+               <hi>Article</hi> the 27. gives the <hi>Iriſh Agents</hi> Authority, to Levy confiderable Sums of Money upon the <hi>Subjects,</hi> in an <hi>Extraordinary</hi> way.</p>
+            <p>By the 28. <hi>Article,</hi> the <hi>Iriſh Agents</hi> are to joyn with the <hi>Chief Governour</hi> in Naming of the <hi>Juſtices</hi> of the <hi>Peace,</hi> and the
+<hi>Judges.</hi>
+            </p>
+            <p>By the 12. <hi>Article,</hi> it was to be left to both Houſes of <hi>Parliament</hi> in
+<hi>Ireland,</hi> to declare what they thought agreeable to the Law of <hi>Ireland,</hi> concerning the <hi>Independency</hi> of the <hi>Law</hi> of <hi>Ireland,</hi> upon the <hi>Parliament</hi> of
+<hi>England;</hi> nor would they rely upon the <hi>Kings Word,</hi> but by the 9th <hi>Article</hi> ſtipulate, for continuance of an <hi>Army</hi> of 17500 <hi>Roman Catholicks:</hi> And by
+<hi>Article</hi> 29. That all <hi>Cities, Towns, Forts,</hi> and <hi>Caſtles,</hi> in their
+<hi>Quarters,</hi> (which then extended almoſt over the whole <hi>Kingdom</hi>) ſhould continue in their <hi>Poſſeſſion,</hi> until the <hi>Arti<g ref="char:EOLhyphen"/>des</hi> were paſt into <hi>Acts of Parliament:</hi> This im<g ref="char:EOLhyphen"/>plies an <hi>Obligation</hi> upon them, ſo to keep this
+<hi>Poſſeſſion,</hi> as to be ready to deliver it up, when the <hi>King</hi> performed His Part. But this none of them were able to do, having given up the <hi>Cities,</hi> and
+<pb n="14" facs="tcp:64531:8"/>almoſt the whole <hi>Kingdom,</hi> to the <hi>
+                  <g ref="char:V">Ʋ</g>ſurper;</hi> mak<g ref="char:EOLhyphen"/>ing Conditions for <hi>Themſelves,</hi> but not taking the leaſt notice of the <hi>King,</hi> or his <hi>Authority.</hi>
+            </p>
+            <p>The <hi>Act of Oblivion</hi> the <hi>Confederates</hi> pretend, (promis'd them by theſe
+<hi>Articles</hi>) was to paſs in the next <hi>Free Parliament:</hi> Now, how could a
+<hi>Par<g ref="char:EOLhyphen"/>liament</hi> be <hi>Free,</hi> that was obliged before hand to paſs an <hi>Act</hi> ſo contrary to the Inclinations of moſt of the <hi>Britiſh</hi> concern'd in that
+<hi>Kingdome?</hi> or, How could the <hi>King,</hi> by the <hi>Second Article,</hi> pro<g ref="char:EOLhyphen"/>miſe to call a <hi>Free Parliament,</hi> and at the ſame time, by other <hi>Articles,</hi> determined what the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> muſt neceſſarily do?</p>
+            <p>The next <hi>Free Parliament</hi> that Sate in <hi>Ireland,</hi> after the making thoſe
+<hi>Articles,</hi> was that which was call'd, <hi>Anno</hi> 13. <hi>Car.</hi> 2. In this
+<hi>Parliament,</hi> an <hi>Act of Oblivion</hi> for the <hi>Confederate Catholicks,</hi> a<g ref="char:EOLhyphen"/>mongſt others, was offered by Directions from the <hi>King,</hi> but the <hi>Houſe of Commons</hi> rejected it.</p>
+            <p>It is worth <hi>Obſervation,</hi> how far the Breach of <hi>Articles,</hi> by part of the
+<hi>Confederate Catholicks,</hi> may Involve the reſt, and diſcharge the <hi>King</hi> of His
+<hi>Promiſe</hi> againſt them All.</p>
+            <p>If a Beſieged City <hi>Article,</hi> and <hi>Security</hi> upon <hi>Conditions</hi> be promiſed the whole <hi>Garriſon;</hi> yet if part of the <hi>Garriſon</hi> breaks the
+<hi>Conditions,</hi> all for<g ref="char:EOLhyphen"/>feits their <hi>Security.</hi>
+            </p>
+            <pb n="16" facs="tcp:64531:8"/>
+            <p>Beſides, King <hi>Charles</hi> I. before theſe <hi>Articles</hi> were entred into, had obliged Himſelf, not to <hi>Pardon</hi> thoſe guilty of the <hi>Rebellion,</hi> but by con<g ref="char:EOLhyphen"/>ſent of the <hi>Engliſh Parliament.</hi>
+            </p>
+            <p>King <hi>Charles</hi> the II. by His <hi>Declaration</hi> from <hi>Breda,</hi> the 4th of
+<hi>April</hi> 1660, promiſes the <hi>Adven<g ref="char:EOLhyphen"/>turers</hi> and <hi>Soldiers,</hi> a
+<hi>Confirmation</hi> of their <hi>Eſtates,</hi> according to their
+<hi>Poſſeſſions.</hi>
+            </p>
+            <p>And the <hi>Parliament</hi> of <hi>England</hi> hath excepted the <hi>Iriſh Rebellion</hi> in the <hi>Act of Oblivion.</hi>
+            </p>
+            <p>To conclude my <hi>Anſwer</hi> to this <hi>Objection;</hi> King <hi>Charles</hi> the II. was the only <hi>Judge</hi> upon Earth, how far He was obliged by theſe <hi>Articles;</hi> He hath taken notice of them in His <hi>Declaration</hi> for the <hi>Settlement</hi> of <hi>Ireland;</hi> and, after He had heard all <hi>Parties,</hi> doth Declare, <hi>That thoſe that pretend they adhear'd to thoſe Articles, ſhould not be reſtered to their former Eſtates as Innocents.</hi> In which Determinati<g ref="char:EOLhyphen"/>on, all good Subjects ſhould Acquieſce.</p>
+            <p>I ſhall now proceed to <hi>Anſwer</hi> the <hi>Objections</hi> made againſt the
+<hi>Juſtice</hi> of the <hi>Acts of Settlement;</hi> but will firſt ſhew, how they paſs'd in that <hi>King<g ref="char:EOLhyphen"/>dom.</hi>
+            </p>
+            <p>Neither of the <hi>Acts</hi> were drawn up in the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> of <hi>Ireland;</hi> nor could they by the <hi>Conſti<g ref="char:EOLhyphen"/>tution</hi> of that <hi>Country;</hi> they were drawn, as adviſed
+<pb n="15" facs="tcp:64531:9"/>in <hi>England,</hi> by the direction of the <hi>King</hi> in <hi>Council.</hi> Nothing paſt without the knowledge of the <hi>A<g ref="char:EOLhyphen"/>gents</hi> for the <hi>Iriſh,</hi> who were looked upon as Men of the greateſt Ability for <hi>Parts</hi> and <hi>Intereſt</hi> of that
+<hi>Nation;</hi> and had a <hi>Gratuity</hi> of Three-pence <hi>per Acre</hi> allowed them, out of the <hi>Roman Catho<g ref="char:EOLhyphen"/>licks Eſtates;</hi> thoſe were permitted to Diſpute e<g ref="char:EOLhyphen"/>very thing they could Object to in the <hi>Acts,</hi> and not Over-rul'd but by the <hi>King</hi> in
+<hi>Council,</hi> upon apparent reaſons. When the <hi>Acts</hi> came into <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> they could not admit of the one Word of <hi>Al<g ref="char:EOLhyphen"/>teration,</hi> and ſo they paſſed the
+<hi>Parliament;</hi> out of which, no Man was excluded for being a <hi>Ro<g ref="char:EOLhyphen"/>man Catholick,</hi> nor no <hi>Elector</hi> of <hi>Parliament-Men</hi> was refuſed upon that account.</p>
+            <p>
+               <hi>Object.</hi> I. The firſt <hi>Objection</hi> then againſt the <hi>Act of Settlement</hi> is, <hi>That the Qualifications appointed by them for the Tryal of Innocents, were unreaſonable.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Qualifications were theſe; <hi>That no Perſon was to be reſtored as Innocent, that before the</hi> Ceſſation, <hi>made</hi> 15. Sept. 1643. <hi>was of the Rebels Party; Nor any, who being of full Age, and ſound Memory, enjoyed their Eſtates in the Rebels Quarters; Nor ſuch as entred into the Roman Catholick Confederacy, before the Peace concluded in</hi> 1648. <hi>Nor ſuch as adhered to the</hi> Nuncio<hi>'s Party. Nor ſuch who derived their
+<pb n="17" facs="tcp:64531:9"/>Eſtates from Perſons who Dyed guilty of the aforementio<g ref="char:EOLhyphen"/>ned Crimes. Nor ſuch as Pleaded the Articles of Peace for their Eſtates. Nor ſuch as (being in the Kings Quarters) had correſpondence with his Enemies. Nor ſuch as before any of the Peaces made in</hi> 1646, <hi>or</hi> 1648, <hi>Sate in any of the</hi> R. C<hi>'s. Aſſemblies</hi> or
+<hi>Councils, or acted by Commiſſion or Power derived from them. Nor ſuch as Impower'd Agents to Treat with Foreign Princes, to bring Forces into</hi> Ireland, <hi>or acted in ſuch Negotiations. Nor ſuch as were Tories before the Marqueſs of</hi> Clauric<g ref="char:EOLhyphen"/>kard<hi>'s leaving the Government.</hi>
+            </p>
+            <p>Theſe <hi>Qualifications</hi> were, in the <hi>Kings Inſtru<g ref="char:EOLhyphen"/>ctions,</hi> ſent over to the firſt <hi>Commiſſioners,</hi> for put<g ref="char:EOLhyphen"/>ing <hi>His Declaration</hi> of the 30. of
+<hi>November</hi> 1660. in <hi>Execution;</hi> which <hi>Inſtructions,</hi> together with the
+<hi>Declaration,</hi> were after paſſed as part of the <hi>Act of Settlement.</hi>
+            </p>
+            <p>No Man yet hath been ſo confident as to de<g ref="char:EOLhyphen"/>ny, but that a <hi>Perſon</hi> guilty of any of the <hi>Offences</hi> mentioned in theſe <hi>Qualifications,</hi> might juſtly be eſteemed a
+<hi>Rebel,</hi> unleſs in one particular, and that is, in the <hi>Enjoyment</hi> of an
+<hi>Eſtate</hi> in the <hi>Rebels Quarters:</hi> But to this is Anſwered, <hi>That by the expreſs words of the</hi> Act, <hi>thoſe are excepted out of this Qualification, that could not with ſafety live amongſt the</hi> Engliſh, and it may juſtly be preſumed, that
+<pb n="18" facs="tcp:64531:10"/>none would chooſe to inhabit with the <hi>Confede<g ref="char:EOLhyphen"/>rates,</hi> that were not of their <hi>Party.</hi>
+            </p>
+            <p>Beſides, the <hi>Commiſſioners</hi> for Trying the <hi>Inno<g ref="char:EOLhyphen"/>cents,</hi> were ſo favourable, that there cannot be any Named that were <hi>Nocent,</hi> barely upon this
+<hi>Qualification.</hi>
+            </p>
+            <p>The Confidence of ſuch is Wonderful, who pretend they have loſt their <hi>Eſtates</hi> meerly for their <hi>Religion.</hi>
+            </p>
+            <p>The <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers</hi> indeed, when they firſt diſpoſ<g ref="char:EOLhyphen"/>ſeſt them, did eſteem the
+<hi>Rebellion</hi> ſo Univerſal, that they accounted all the <hi>Roman Catholicks</hi> of the
+<hi>Kingdom,</hi> to have been of the <hi>Iriſh Confederacy,</hi> yet were they not ſo
+<hi>Barbarous,</hi> but appointed <hi>Commiſsioners</hi> to enquire, if there were any
+<hi>Inno<g ref="char:EOLhyphen"/>cents</hi> amongſt them; who finding ſome, that they thought were not guilty of the
+<hi>Rebellion,</hi> the <hi>Uſurpers,</hi> either continued them in the Poſ<g ref="char:EOLhyphen"/>ſeſſion of, or reſtored them to their <hi>Eſtates,</hi> by the Name of <hi>Conſtant, Good, Affectionate Men,</hi> a Title well known in that <hi>Country.</hi>
+            </p>
+            <p>'Tis certain, that neither theſe <hi>Qualifications,</hi> nor the <hi>Act of Settlement,</hi> nor the <hi>Proceedings</hi> of the <hi>Commiſſioners</hi> for reſtoring of
+<hi>Innocents,</hi> have given the leaſt reaſon for any <hi>Roman Catholick</hi> to affirm his
+<hi>Eſtate</hi> hath been taken from him for
+<pb n="19" facs="tcp:64531:10"/>his <hi>Religion,</hi> unleſs he ſay, he engaged in the <hi>Rebellion</hi> upon the <hi>Principles</hi> of his <hi>Religion,</hi> which is hoped no Man is ſo Wicked, as either to ſpeak or think.</p>
+            <p>Beſides, if the Temper of many of the <hi>Iriſh Nation,</hi> in the <hi>Parliament</hi> that Sate in that <hi>Kingdom</hi> in 1641, be conſidered, and how they flew in the Faces of the
+<hi>Judges</hi> and <hi>Engliſh Government;</hi> and if the <hi>Articles,</hi> that from Time to Time they Pro<g ref="char:EOLhyphen"/>poſed to the <hi>King,</hi> after they had taken up <hi>Arms,</hi> be looked upon, it will be clearer than Day, that their Deſigns were <hi>Temporal Advantages,</hi> and the driving the <hi>Engliſh Planters</hi> out of the <hi>Country,</hi> covered over with a <hi>Mantle of Religion.</hi>
+            </p>
+            <p>Object. II. A <hi>Second Objection</hi> againſt the <hi>Act of Settlement,</hi> is, <hi>That a multitude of Innocents are bar<g ref="char:EOLhyphen"/>red by them, whoſe Claims had not ſufficient Time to be heard.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If by theſe <hi>Innocents,</hi> are meant ſuch as were not Born when the
+<hi>Rebellion</hi> began, or were hindred by want of Age, or from ſome incon<g ref="char:EOLhyphen"/>vincible Weakneſs, from being concern'd in it, whilſt it laſted. 'Tis probable, there were a great many ſuch
+<hi>Innocents:</hi> But, to what purpoſe ſhould they be heard? it not being upon their account that ſuch Lands were forfeited; there is nothing
+<pb n="20" facs="tcp:64531:11"/>taken from them: Thoſe they would derive from, had forfeited before they had any Title.</p>
+            <p>But it is poſſible, there are no <hi>Innocents</hi> un<g ref="char:EOLhyphen"/>heard, that had any Title (in 1641, when the <hi>Rebellion</hi> broke out) in the Lands diſpoſed of by theſe <hi>Acts;</hi> or, if there are, it hath happened through their own Defaults.</p>
+            <p>Doubtleſs, there are but few now living, that were Men in 1641; if there be, I would be glad to ſee a Liſt of thoſe <hi>Innocents.</hi>
+            </p>
+            <p>Some indeed, ſince King <hi>Charles</hi>'s <hi>Reſtauration,</hi> might have had an opportunity of trying their <hi>Innocency,</hi> being accuſed of <hi>Treaſons, Murder,</hi> and other <hi>Miſdemeanors,</hi> had not Letters been pro<g ref="char:EOLhyphen"/>cured from his late Majeſty, to ceaſe all <hi>Proſecu<g ref="char:EOLhyphen"/>tion</hi> againſt the <hi>Iriſh,</hi> for ſuch Crimes as were Committed during the <hi>Rebellion,</hi>
+            </p>
+            <p>Is it reaſonable to be deſired, that the Per<g ref="char:EOLhyphen"/>ſons, who now enjoy the <hi>Eſtates</hi> the <hi>Iriſh</hi> pretend to have belonged to their <hi>Anceſtors,</hi> ſhould prove the
+<hi>Rebellious Actions</hi> of private Men, com<g ref="char:EOLhyphen"/>mitted almoſt 50 Years ago? In the year 1662, when the <hi>Act of Settlement</hi> paſs'd, it had been difficult to have made out their
+<hi>Guilt,</hi> had it not been very <hi>Notorious.</hi> But now it is abſolutely impoſſible, conſidering what the <hi>Act of Settle<g ref="char:EOLhyphen"/>ment</hi>
+               <pb n="17" facs="tcp:64531:11"/>informs the World, (viz.) <hi>That ſeveral means, for many Years together, had been uſed to Murther ſuch Witneſſes, ſuppreſs ſuch Evidences, and to vitiate and imbezle ſuch Records and Teſtimonies, as might prove the Guilt of particular Perſons.</hi>
+            </p>
+            <p>I believe the common <hi>Eſtimate</hi> Men make of the Number of <hi>Iriſh Proprietors</hi> in 1641. (from whence they conclude many <hi>Innocents</hi> unheard) is a great Miſtake: To rectifie which, I will in<g ref="char:EOLhyphen"/>ſert the Number of all the <hi>Iriſh Proprietors</hi> in and about the Fourth Part of that <hi>Kingdom,</hi> as I find them carefully return'd on Record:</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" cols="2">Proprietors in 1641.</cell>
+                     <cell role="label">Out-law'd, and Indicted for the <hi>Rebellion,</hi> in the ſame County;</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Meath,</hi>
+                     </cell>
+                     <cell>380.</cell>
+                     <cell>409.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Weſt-Meath,</hi>
+                     </cell>
+                     <cell>344.</cell>
+                     <cell>362.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>KING</hi>'s <hi>County,</hi>
+                     </cell>
+                     <cell>194.</cell>
+                     <cell>554.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Q<g ref="char:V">Ʋ</g>EEN</hi>'s <hi>County,</hi>
+                     </cell>
+                     <cell>132.</cell>
+                     <cell>118.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Downe,</hi>
+                     </cell>
+                     <cell>80.</cell>
+                     <cell>534.</cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Armagh,</hi>
+                     </cell>
+                     <cell>24.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>In <hi>Antrim,</hi>
+                     </cell>
+                     <cell>214.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>To all whoſe <hi>Eſtates,</hi> but <hi>Ninty-One,</hi> or thereabouts, the Marquis of
+<hi>Antrim,</hi> and his <hi>Lady,</hi> were Re<g ref="char:EOLhyphen"/>ſtored.</p>
+            <p>By this <hi>Account,</hi> which (for the <hi>Counties</hi> nam'd) is True, (only ſome of the moſt conſiderable
+<pb n="18" facs="tcp:64531:12"/>
+               <hi>Proprietors</hi> are Return'd in ſeveral Places, and ſome of them are likewiſe Out-law'd more than once) it appeareth, there were but few Land<g ref="char:EOLhyphen"/>ed Men in
+<hi>Ireland:</hi> And further, That in the firſt <hi>Five Counties,</hi> where the
+<hi>Rebels</hi> could in any man<g ref="char:EOLhyphen"/>ner be Proceeded againſt, <hi>Seven Hundred Ninty Nine</hi> were Indicted, or Out-law'd, more than the full Number of the <hi>Proprietors</hi> amounted to.</p>
+            <p>There were <hi>Two Commiſſions</hi> Iſſued out by King <hi>Charles the Second,</hi> for the <hi>Reſtoring of Innocents.</hi>
+            </p>
+            <p>The <hi>Firſt</hi> was upon the <hi>King</hi>'s <hi>Declaration,</hi> da<g ref="char:EOLhyphen"/>ted the 30th. of
+<hi>October,</hi> 1660. Although theſe <hi>Commiſſioners</hi> ſate ſeveral Times; yet not above Two or Three of the <hi>Iriſh Nation</hi> ever ventur'd to make out their
+<hi>Innocence</hi> before <hi>Them.</hi>
+            </p>
+            <p>The <hi>Second Commiſſion</hi> was granted to <hi>Perſons,</hi> upon whoſe
+<hi>Nomination</hi> the <hi>Britiſh</hi> in <hi>Ireland</hi> can<g ref="char:EOLhyphen"/>not pretend to have the leaſt Influence. Though <hi>They</hi> were as favourable to the <hi>Iriſh Nation,</hi> as <hi>They</hi> could, with any colour of <hi>Juſtice,</hi> muſt be allow<g ref="char:EOLhyphen"/>ed; yet the <hi>Iriſh</hi> were ſo ſevere to the <hi>Engliſh,</hi> that They complain'd of <hi>Them</hi> to the
+<hi>Parliaments</hi> both of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>The <hi>Commiſſioners</hi> publiſhed <hi>Rules,</hi> dated the 22th of <hi>October,</hi>
+1662. by which they declar'd in what <hi>Order they would hear the Pretenders to</hi> Inno<g ref="char:EOLhyphen"/>cency,
+<pb n="19" facs="tcp:64531:12"/>
+               <hi>in the ſeveral Counties of</hi> Ireland: But theſe <hi>Innocents</hi> had then ſo ill an Opinion of <hi>Themſelves,</hi> that not many of <hi>Them,</hi> after much Delay, durſt come to <hi>Tryal.</hi>
+            </p>
+            <p>The Firſt <hi>Publick Sitting</hi> upon this <hi>Commiſſion,</hi> was the 13th. of
+<hi>January,</hi> 1662. and ſo few were there then ready, (although the whole Proof was put upon the <hi>Britiſh</hi>) that in the Firſt Month there came on but <hi>Forty Five;</hi> amongſt which were ſeveral <hi>Engliſh Proteſtants;</hi> and of the reſt, <hi>Seven</hi> declar'd
+<hi>Nocent,</hi> and Diſmiſs'd.</p>
+            <p>In the Second Month there came on <hi>Sixty</hi> to Trial; of which <hi>Seven</hi> were
+<hi>Nocents,</hi> and Diſ<g ref="char:EOLhyphen"/>miſs'd.</p>
+            <p>In the Third Month came on <hi>Eighty Five;</hi> of which <hi>Five</hi> were <hi>Nocents,</hi> and Diſmiſs'd.</p>
+            <p>By this Time ſeveral of the <hi>Claimants</hi> (as hath ſince fully appear'd) had contracted with Men of <hi>Intereſt,</hi> to carry on their <hi>Claims;</hi> and had con<g ref="char:EOLhyphen"/>triv'd
+<hi>Settlements,</hi> whereby they might avoid <hi>Prejudice</hi> from the <hi>Guilt</hi> of their
+<hi>Anceſtors:</hi> So that many ventur'd with more <hi>Confidence;</hi> and <hi>Six Hun<g ref="char:EOLhyphen"/>dred</hi> and <hi>Thirty</hi> Claims more were heard in the remaining Five Months, that the
+<hi>Commiſsioners</hi> ſat; of which many belong'd to <hi>Proteſtants;</hi> and ſe<g ref="char:EOLhyphen"/>veral were declar'd <hi>Nocent,</hi> and Diſmiſs'd.</p>
+            <pb n="20" facs="tcp:64531:13"/>
+            <p>It is further obſerved, That the firſt <hi>Claimant</hi> was declared <hi>Nocent.</hi>
+            </p>
+            <p>That of thoſe declared <hi>Innocent,</hi> there were about <hi>Eighty</hi> of the moſt conſiderable for <hi>Qua<g ref="char:EOLhyphen"/>lity</hi> and <hi>Eſtates,</hi> who derived their <hi>Titles</hi> from
+<hi>Perſons</hi> acknowledged to be <hi>Guilty</hi> of the <hi>Rebelli<g ref="char:EOLhyphen"/>on</hi> by the
+<hi>Settlements;</hi> concerning many of which, it may be ſaid truly, <hi>That they were not in common Method.</hi>
+            </p>
+            <p>I ſhall come to the latter part of this <hi>Objection, That there was not Time enough for all</hi> Innocents <hi>to bring on their Tryals;</hi> although, by what hath been ſaid before, it is apparent, they had much more Time then they made uſe of; yet this is further to be offered:</p>
+            <p>At the <hi>King's Return</hi> in 1660. a conſiderable part of the <hi>Kingdom</hi> of
+<hi>Ireland</hi> was to be <hi>Settled:</hi> Matters of ſuch Weight cannot admit of long Delays; all Perſons agreed, <hi>That</hi> Innocents <hi>were firſt to be reſtored; there muſt be a fixt Time for their Reſtitution, all other Intereſts being obliged to attend it.</hi> All that knew thoſe <hi>Times,</hi> and how univerſally the <hi>Rebellion</hi> had ſpread it ſelf, knew there could but few pretend to <hi>Innocency:</hi> Thoſe that were really ſo, or hoped the contrary could not be proved, were earneſt to be in their <hi>Eſtates;</hi> and
+<pb n="21" facs="tcp:64531:13"/>therefore, at the deſire of their <hi>Agents,</hi> the firſt Period for the
+<hi>Reſtitution</hi> of <hi>Innocents,</hi> by the <hi>King</hi>'s <hi>Declaration,</hi> dated the 30th. of <hi>Nov.</hi> 1660. was the ſecond of <hi>May,</hi> 1661. This gave them but five Months <hi>Time:</hi> And the firſt <hi>Commiſsioners</hi> proceeded the next day after the day of the <hi>De<g ref="char:EOLhyphen"/>claration,</hi> which is three Months leſs than after<g ref="char:EOLhyphen"/>wards made uſe of.</p>
+            <p>The next <hi>Period</hi> was to the firſt of <hi>Auguſt,</hi> 1662. and that was at the deſire of their <hi>Agents,</hi> by the <hi>Act of Settlement,</hi> which paſſed at a
+<hi>Seſsion</hi> which began the 17. of <hi>April,</hi> 1662. Here they had but <hi>Three Months</hi> given them; and nothing was done, in relation to them, in it. Thus, by an <hi>Act of Parliament,</hi> and their own <hi>Neglect,</hi> they would have been finally debarr'd, had not the
+<hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> of <hi>Ireland,</hi> (of which they now ſo much com<g ref="char:EOLhyphen"/>plain) not being diſcouraged by the prejudice it brought to many of its <hi>Membres,</hi> freely paſſed an
+<hi>Act,</hi> giving <hi>Innocents</hi> a <hi>Year</hi> further to be heard: <hi>Four Months</hi> of which <hi>Time</hi> were trifled away by them, and the other <hi>Eight</hi> Imployed in the man<g ref="char:EOLhyphen"/>ner before-mentioned.</p>
+            <p>A <hi>Third Objection</hi> to the <hi>Act of Settlement,</hi> is, <hi>That they had not peruſed King</hi> Charles <hi>the Second's</hi> De<g ref="char:EOLhyphen"/>claration <hi>of the</hi> 30th. <hi>of</hi> Nov. 1660. <hi>upon which they
+<pb n="22" facs="tcp:64531:14"/>were grounded; ſeveral of the</hi> Iriſh <hi>Nation being pro<g ref="char:EOLhyphen"/>vided for by that</hi> Declaration, <hi>which now are never likely to receive the ſatisfaction intended them by it.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi> A Complaint the <hi>Declaration</hi> is not comply'd with, implies their now
+<hi>Acquieſcence</hi> in that way, which formerly they <hi>Oppoſed</hi> with great Heat; but if the <hi>Declaration</hi> be not <hi>Peruſed,</hi> the <hi>Engliſh</hi> are in no
+<hi>Default;</hi> they themſelves are great <hi>Looſers;</hi> many of the <hi>Adventurers</hi> and <hi>Sol<g ref="char:EOLhyphen"/>diers</hi> want much of the ſatisfaction, which by the <hi>Declaration</hi> they ought to have had: Many of their <hi>Eſtates,</hi> which ſhould have come clear to their
+<hi>Poſſeſſion,</hi> are ſubject to great <hi>Incumbran<g ref="char:EOLhyphen"/>ces;</hi> and ſeveral of them are daily threatned to have all they had ſet out, for their <hi>Adventures</hi> and
+<hi>Arrears,</hi> taken from them by Dormant <hi>Titles,</hi> lately ſet up by <hi>Iriſh Proprietors,</hi> declared <hi>Inno<g ref="char:EOLhyphen"/>cent</hi> by this, without any hopes of <hi>Reprize.</hi>
+            </p>
+            <p>By the <hi>Declaration, Souldiers</hi> and <hi>Adventurers</hi> were not to be removed from the
+<hi>Eſtates</hi> of any but <hi>Innocents,</hi> without a previous <hi>Reprize</hi> of equal
+<hi>Value, Worth,</hi> and <hi>Purchaſe;</hi> and, if in caſe their Removal from the
+<hi>Eſtates</hi> of <hi>Innocents,</hi> they were to be further <hi>Reprized</hi> in the ſame manner.</p>
+            <p>Removed they were indeed, by the <hi>Commiſſio<g ref="char:EOLhyphen"/>ners,</hi> upon the Firſt <hi>Act,</hi> from the <hi>Eſtates</hi> of <hi>Inno<g ref="char:EOLhyphen"/>cents</hi>
+               <pb n="23" facs="tcp:64531:14"/>and others; but no care was taken, by them, on that <hi>Act,</hi> for their ſatisfaction.</p>
+            <p>By the Second <hi>Act,</hi> the <hi>Britiſh,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing what they had loſt to
+<hi>Innocents</hi> (to the end that all the <hi>Iriſh Intereſts,</hi> that the <hi>King</hi> ſeemed to have a <hi>Favour</hi> for, by the <hi>Declaration,</hi> might reap the benefit by Him intended them) were contented (beſides ſeveral great <hi>Payments</hi>) to part with a
+<hi>Third Part</hi> of their <hi>Eſtates;</hi> by which means many of the <hi>Iriſh</hi> have, and many more of them might have had ſatisfaction, had not the <hi>King</hi> thought fit to direct the Inſerting of ſo many. <hi>Proviſo</hi>'s in the <hi>Act of Settlement,</hi> for
+<hi>Perſons</hi> of the <hi>Iriſh Nation,</hi> that could not prove their <hi>Innocency,</hi> and others, that at that <hi>Time</hi> of his <hi>Re<g ref="char:EOLhyphen"/>ſtauration,</hi> had not the leaſt claim to <hi>Iriſh-Lands:</hi> His granting, likewiſe, of vaſt quantities of <hi>For<g ref="char:EOLhyphen"/>feited Lands,</hi> by <hi>Letters Patents,</hi> not grounded on the <hi>Act of Settlement,</hi> have been the occaſion that ſeveral of the <hi>Intereſts,</hi> provided for by the
+<hi>De<g ref="char:EOLhyphen"/>claration,</hi> are become deſperate.</p>
+            <p>Having, as I hope, cleared the <hi>Juſtice</hi> of the <hi>Settlement,</hi> by the
+<hi>Anſwers</hi> to the <hi>Objections,</hi> made by the <hi>Iriſh,</hi> againſt it, and what elſe I have before offered; I ſhall proceed to conſider, <hi>Whether it can, at this Time, be juſtly broken; ſuppoſing
+<pb n="24" facs="tcp:64531:15"/>that at firſt ſomewhat might reaſonably have been al<g ref="char:EOLhyphen"/>ledged againſt it?</hi>
+            </p>
+            <p>Three <hi>Years</hi> after the <hi>Commiſſion</hi> for declaring <hi>Innocents,</hi> were over, and after the <hi>Iriſh Parliament</hi> was <hi>Diſſolved,</hi> about the Year 1667. moſt of the <hi>Forfeited Lands</hi> in <hi>Ireland</hi> were ſettled by <hi>Letters Patents,</hi> in the <hi>Poſſeſsion</hi> of ſuch of the <hi>Iriſh,</hi> as by
+<hi>Commiſsioners,</hi> appointed to put in Execution a<g ref="char:EOLhyphen"/>nother <hi>Act of Parliament</hi> for explaining the <hi>Act of Settlement,</hi> were adjudged to have right to the ſame. Since this Adjudication of <hi>Right,</hi> and paſ<g ref="char:EOLhyphen"/>ſing of <hi>Letters Patents,</hi> being near <hi>Twenty Years;</hi> there have been general alterations of <hi>Titles</hi> and
+<hi>Poſſeſſions,</hi> for good and valuable conſiderations; ſo that, ſhould the
+<hi>Settlement</hi> now be broken, multitudes of <hi>Purchaſers</hi> and <hi>Mortgagers</hi> for great Summs of <hi>Money, Settlements</hi> upon <hi>Marriage,</hi> where conſiderable
+<hi>Portions</hi> have been received; <hi>Leaſes</hi> for <hi>Lives</hi> and <hi>Years,</hi> where <hi>Fines</hi> have been paid, and advantageous <hi>Improvements</hi> have been made, will be divided, and that without any Default in them that have dealt with the <hi>Paten<g ref="char:EOLhyphen"/>tees.</hi> If it be Objected, <hi>That Men Buy at their Hazzard, and</hi> Purchaſers <hi>are to look to their</hi> Titles <hi>of what they deal for:</hi> This is not of Weight in this Matter; for no Man could ſuſpect the Le<g ref="char:EOLhyphen"/>gality
+<pb n="25" facs="tcp:64531:15"/>of theſe <hi>Eſtates,</hi> if he conſidered that they were confirmed by
+<hi>Acts of Parliament;</hi> and had been always, when brought into Diſpute, adjudged good by the
+<hi>Judges,</hi> in the ſeveral Courts of <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>Moſt part of the <hi>Britiſh Titles</hi> in that <hi>Kingdom,</hi> have depended upon
+<hi>Acts of Parliament</hi> of the like nature: The <hi>Plantations</hi> in the Counties of
+<hi>Wicklow, Kilkenny, Wexford,</hi> &amp;c. upon an <hi>Act</hi> made 15. <hi>Jo.</hi> 16. The whole <hi>King</hi> and <hi>Queens</hi> Counties are ſettled by an <hi>Act</hi> made 3. and 4.
+<hi>Ph.</hi> and the <hi>c.</hi> 2. A <hi>Statute</hi> made the 11. of <hi>Eliz. c.</hi> 1. and
+<hi>Seſſ.</hi> 3. is the Foundation of all thoſe <hi>Plantations</hi> in the
+<hi>Province</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>lſter.</hi> Theſe <hi>Acts</hi> barr the <hi>Iriſh Pro<g ref="char:EOLhyphen"/>prietors</hi> for former <hi>Rebellions,</hi> without any <hi>Tryal</hi> of <hi>Innocents;</hi> ſome few particular <hi>Perſons</hi> being only taken notice of in them.</p>
+            <p>It was many <hi>Hundred Years,</hi> before the <hi>Natives</hi> could obtain to be allowed the benefit of the <hi>Engliſh Laws:</hi> Now they enjoy this <hi>Advantage</hi> by the favour of our
+<hi>Kings,</hi> they will never <hi>Acqui<g ref="char:EOLhyphen"/>eſce</hi> in them.</p>
+            <p>They waited for an opportunity to deſtroy all former <hi>Settlement,</hi> as well as they do the pre<g ref="char:EOLhyphen"/>ſent; and by the <hi>Articles of Peace,</hi> they ſtipulated for <hi>Liberty,</hi> notwithſtanding the forementioned
+<pb n="26" facs="tcp:64531:16"/>
+               <hi>Laws</hi> to deſtroy the former <hi>Plantations</hi> in <hi>Kilken<g ref="char:EOLhyphen"/>ny, Wicklow,</hi> &amp;c. <hi>Munſter</hi> and <hi>Vlſter</hi> they could not but allow; they could not but allow the <hi>Laws</hi> they were grounded on, whilſt in force, ſuffici<g ref="char:EOLhyphen"/>ent; but they reſolved to Repeal them, in what they ſtiled a <hi>Free-Parliament;</hi> which, according to their <hi>Articles of Peace,</hi> was to be called, when they had moſt part of the
+<hi>Kingdom</hi> in their hands, and a ſtanding <hi>Army</hi> of 15700 <hi>Horſe</hi> and
+<hi>Foot,</hi> of their Confederates: <hi>God</hi> grant their <hi>Deſigns</hi> be not the ſame, in this preſent conjuncture.</p>
+            <p>The Legality of the <hi>Acts of Settlement</hi> are not doubted, at leaſt-wiſe the
+<hi>Britiſh</hi> are ſatisfied to reſt on them: By their <hi>Objections</hi> they declare,
+<hi>They intend their Repeal;</hi> and yet five Parts of ſix of the <hi>Free-holders,</hi> and the <hi>Major part,</hi> by much of the <hi>Corporations</hi> in that <hi>Kingdom,</hi> conſiſt of <hi>Perſons</hi> concerned, that the preſent <hi>Settlement</hi> ſhould continue as it is; ſo that it is impoſſible for them, unleſs the <hi>Kingdom</hi> be in ſuch a con<g ref="char:EOLhyphen"/>dition as it was when they made thoſe <hi>Articles,</hi> to have ſuch a <hi>Parliament</hi> as will anſwer their <hi>Deſigns.</hi>
+            </p>
+            <p>
+               <hi>Engliſh Roman Catholicks</hi> have been of another Temper: The <hi>Statutes</hi> made in
+<hi>H.</hi> the <hi>Eighths Days,</hi> whereby <hi>Church</hi> and <hi>Abby-Lands</hi> were given to
+<pb n="27" facs="tcp:64531:16"/>the <hi>Crown,</hi> cannot but be eſteemed by every <hi>Roman Catholick,</hi> to be more againſt the <hi>Rules</hi> of <hi>Juſtice,</hi> than thoſe <hi>Acts of Settlement:</hi> they are point blank againſt the <hi>Canons</hi> of the <hi>Roman Church;</hi> no general <hi>Guilt</hi> was caſt upon the <hi>Proprietors,</hi> no <hi>Innocents</hi> eſcaped: The <hi>Lands</hi> were certainly de<g ref="char:EOLhyphen"/>ſigned for <hi>Pious</hi> and <hi>Charitable</hi> Uſes; and yet the <hi>Parliament</hi> in <hi>Queen Maries Days,</hi> had ſuch a regard to the
+<hi>Peace</hi> of the <hi>Kingdom,</hi> to <hi>Purchaſers</hi> for va<g ref="char:EOLhyphen"/>luable
+<hi>Conſiderations,</hi> and to <hi>Laws</hi> formerly <hi>Enact<g ref="char:EOLhyphen"/>ed,</hi> that the
+<hi>Statutes</hi> for <hi>Diſſolution</hi> of <hi>Religious Houſes,</hi> &amp;c. tho' but lately made, were confirm<g ref="char:EOLhyphen"/>ed at that <hi>Seſſion.</hi>
+            </p>
+            <p>As <hi>Purchaſers</hi> had no reaſon to queſtion the Legality of theſe <hi>Acts of Settlement;</hi> ſo, likewiſe, was there no cauſe to doubt its <hi>Equity,</hi> when the
+<hi>Forfeiting Perſons</hi> themſelves, to thoſe that claim<g ref="char:EOLhyphen"/>ed by the <hi>King</hi>'s
+<hi>Letters,</hi> or as <hi>Nominees,</hi> or by <hi>Proviſo</hi>'s, &amp;c. in the
+<hi>Acts,</hi> were contented to take part of their <hi>Eſtates</hi> of <hi>Lands, Forfeited</hi> by the <hi>Re<g ref="char:EOLhyphen"/>bellion,</hi> and diſpoſed of to them, by thoſe <hi>Acts;</hi> ſo waving their former <hi>Titles,</hi> ſeveral <hi>Forfeiting Perſons,</hi> who had the <hi>Land</hi> of their <hi>Country-men</hi> in <hi>Connaught</hi> given them by the <hi>Uſurper,</hi> kept thoſe
+<hi>Lands</hi> to their own uſe; and have ſince paſſed <hi>Letters Pattents</hi> for them, as <hi>Forfeited</hi> by the late
+<pb n="28" facs="tcp:64531:17"/>
+               <hi>Rebellion,</hi> without any Companction whatſoever.</p>
+            <p>
+               <hi>Laſtly,</hi> His late <hi>Majeſty</hi> was pleaſed to take very great <hi>Summs of Money</hi> from the <hi>Britiſh Pa<g ref="char:EOLhyphen"/>tentees,</hi> for their <hi>Confirmation,</hi> and His
+<hi>Sacred Ma<g ref="char:EOLhyphen"/>jeſty,</hi> that now is, hath ever ſince the <hi>Year</hi> 1662. received the
+<hi>Profits</hi> of a conſiderable part of the <hi>Forfeited Lands;</hi> which, who could have imagin'd they would have done, had they not thought thoſe <hi>Lands</hi> might be enjoyed with a ſafe <hi>Con<g ref="char:EOLhyphen"/>ſcience.</hi>
+            </p>
+            <p>It is further conſiderable, That to deſtroy the <hi>Settlement</hi> at this <hi>Time,</hi> would Ruine multi<g ref="char:EOLhyphen"/>tudes of <hi>Families,</hi> both in <hi>Corporations,</hi> and the
+<hi>Country</hi> that depends upon it; ſome of which conſiſts of <hi>Souldiers,</hi> ſent thither ſince King <hi>Charles the Second</hi>'s <hi>Reſtauration,</hi> &amp; ſettled there tho' now <hi>Disbanded;</hi> others, in great numbers, have been brought over by the encouragement of an <hi>Act of Parliament,</hi> made the 14th of <hi>Charles</hi> the <hi>Second,</hi> and ſeveral Orders of <hi>Council</hi> grounded on that <hi>Law.</hi>
+            </p>
+            <p>Certainly, it would be a breach of <hi>Faith,</hi> and common <hi>Humanity,</hi> to undo thoſe who have done nothing to deſerve ſo ſevere a <hi>Puniſhment.</hi>
+            </p>
+            <p>It is now time to make ſome Reflections on the <hi>Coventry Letter</hi> and <hi>Pamphlet,</hi> Intituled, <hi>The Sale and Settlement of</hi> Ireland.</p>
+            <pb n="29" facs="tcp:64531:17"/>
+            <p>And firſt for the <hi>Coventry Letter.</hi> The deſign of it ſeems to be, to adviſe againſt the Iſſuing any <hi>Proclamation,</hi> to declare, <hi>That the King had no Inten<g ref="char:EOLhyphen"/>tion to touch the Acts of Settlement, but would confirm them:</hi> Many Politick
+<hi>Arguments</hi> are uſed in it, which lye not in my way: But if His <hi>Majeſty</hi> had been pleaſed to have declared His Intention, <hi>Not to break the Act of Settlement,</hi> it would have gi<g ref="char:EOLhyphen"/>ven great ſatisfaction to moſt of His <hi>Britiſh</hi> Sub<g ref="char:EOLhyphen"/>jects; who, tho' they do not miſtruſt His <hi>Juſtice;</hi> yet cannot but be much <hi>Diſquieted,</hi> by the fre<g ref="char:EOLhyphen"/>quent <hi>Threats</hi> they receive from thoſe that pre<g ref="char:EOLhyphen"/>tend to their <hi>Eſtates,</hi> &amp; the unreaſonable and falſe grounded <hi>Objections</hi> of others, againſt thoſe
+<hi>Acts.</hi>
+            </p>
+            <p>Neither had ſuch <hi>Proclamation</hi> been without <hi>Preſident;</hi> for <hi>January</hi>
+24. 1672. a <hi>Proclamation</hi> Iſſu<g ref="char:EOLhyphen"/>ed, by which <hi>King Charles the Second</hi> (to take off a Malitious <hi>Suggeſtion,</hi> diffuſed amongſt His <hi>Sub<g ref="char:EOLhyphen"/>jects</hi> in <hi>Ireland, That he did deſire to weaken the Acts of Settlement</hi>) doth declare, <hi>That it never entred into His Heart, either by His late Commiſsion for Inſpection, or by any Indulgence granted to His</hi> Roman Catho<g ref="char:EOLhyphen"/>lick <hi>Subjects to live in Corporations, any-wiſe to Infringe the ſaid Acts.</hi>
+            </p>
+            <p>The <hi>Gentleman</hi>'s chief <hi>Arguments</hi> are againſt His <hi>Majeſty</hi>'s declaring any <hi>Intention</hi> to confirm
+<pb n="30" facs="tcp:64531:18"/>thoſe <hi>Acts;</hi> which, he Inſinuates, would be againſt
+<hi>Juſtice</hi> and <hi>Religion.</hi>
+            </p>
+            <p>Indeed, I believe, had His Majeſty declared, <hi>Not to ſuffer the Acts to be broken,</hi> moſt Men would not have deſired any <hi>Promiſe</hi> of <hi>Confirmation;</hi> for they now think their <hi>Eſtates</hi> as fully ſecured to them, as <hi>Laws</hi> can do it. However, His
+<hi>Majeſty,</hi> in His ſeveral <hi>Declarations</hi> for <hi>Liberty of Conſcience,</hi> in
+<hi>England</hi> and <hi>Scotland,</hi> hath promiſed to main<g ref="char:EOLhyphen"/>tain His <hi>Subjects</hi> in the Poſſeſſion of <hi>Church</hi> and <hi>Abby-Lands;</hi> and yet it is poſſible, this
+<hi>Gentleman</hi> might uſe ſome of his <hi>Argumenns</hi> againſt thoſe
+<hi>Titles.</hi>
+            </p>
+            <p>The <hi>Gentleman</hi> layeth down for a Principle, <hi>That nothing can ſupport the</hi> Catholick <hi>Religion in</hi> Ireland, <hi>but to make the</hi> Catholicks <hi>there conſidera<g ref="char:EOLhyphen"/>ble in their Fortunes, as they are in their Numbers; which muſt be the only Inducement can prevail with a</hi> Prote<g ref="char:EOLhyphen"/>ſtant <hi>Succeſſor to allow them a Toleration, as to their Religion, and a Protection to their Eſtates; and that their having all Imployments, cannot prevent this danger.</hi>
+            </p>
+            <p>This muſt be acknowledged to be a terrible conſideration to the <hi>Britiſh</hi> in
+<hi>Ireland; That nothing can make the</hi> Roman Catholick <hi>Religion conſiderable, but breaking the Settlement, and giving the</hi> Iriſh <hi>the Lands the</hi> Britiſh <hi>now lawfully enjoy:</hi> But I have a
+<pb n="31" facs="tcp:64531:18"/>much better Opinion of that <hi>Religion;</hi> and am confident, That many, who profeſs it, are not of this <hi>Gentleman</hi>'s Mind. We ſee there are ſome Men, that will not eaſily be ſatisfied; <hi>Favour, Im<g ref="char:EOLhyphen"/>ployments,</hi> nor <hi>Free-Liberty</hi> in the Exerciſe of their <hi>Religion,</hi> will not ſatisfie them; <hi>They</hi> will have
+<hi>All,</hi> or <hi>Nothing.</hi> Our whole Confidence, there<g ref="char:EOLhyphen"/>fore, reſts in our <hi>King</hi>'s
+<hi>Juſtice;</hi> who, we hope, will never be perſwaded to take away the <hi>Eſtates</hi> of thoſe, who are Guilty of no <hi>Offence</hi> againſt His Laws, upon any pretence whatſoever.</p>
+            <p>The Gentleman advanceth; <hi>That new Eſtated Men would freely part with great Sums, and a conſider<g ref="char:EOLhyphen"/>able part of their Lands for a Confirmation.</hi>
+            </p>
+            <p>That theſe new <hi>Eſtated Men</hi> would be as ready to lay their <hi>Lives</hi> and
+<hi>Fortunes</hi> at His <hi>Majeſties Feet,</hi> as any <hi>Subjects</hi> He hath in that
+<hi>Kingdom,</hi> is a <hi>Truth</hi> Tryal would quickly <hi>Juſtifie:</hi> But their
+<hi>Eſtates,</hi> if <hi>Laws</hi> can ſecure them, they have al<g ref="char:EOLhyphen"/>ready as well <hi>Worded,</hi> as they can deſire: If they ſhould Purchaſe another <hi>Confirmation,</hi> they are well ſatisfied, a <hi>Parliament,</hi> conſtituted of the <hi>Principles</hi> with this
+<hi>Gentleman,</hi> would ſpeedily <hi>Re<g ref="char:EOLhyphen"/>peal</hi> it, could they procure His Majeſties
+<hi>Conſent;</hi> which, I hope, they will never do, to the prejudice of the <hi>Act of Settlement</hi> now in Being.</p>
+            <pb n="32" facs="tcp:64531:19"/>
+            <p>Here I cannot but remember with Honour, the care our <hi>Engliſh</hi> Anceſtors had for ſuch as ſhould come after them, for the Securing this <hi>Kingdom;</hi> They had obſerved, that not only the meer <hi>Iriſh,</hi> but the <hi>Antient Colonies,</hi> had no kind<g ref="char:EOLhyphen"/>neſs for the <hi>New Engliſh;</hi> but the frequent <hi>Acts</hi> of <hi>Reſumption,</hi> paſſed in their <hi>Parliaments,</hi> had avoid<g ref="char:EOLhyphen"/>ed new <hi>Grants</hi> made to <hi>Engliſh-men</hi> for conſider<g ref="char:EOLhyphen"/>able <hi>Services:</hi> For this, and other <hi>Cauſes,</hi> that <hi>Act</hi> was procured, with great Wiſdom, by Sir <hi>Edward Poynings,</hi> then Lord Deputy, the 10.
+<hi>Hen.</hi> 7. by which it is Enacted, <hi>That no Bills can be offered to a Parliament in</hi> Ireland, <hi>before they have been approved by the King in</hi> England: This Law, tho after at<g ref="char:EOLhyphen"/>tempted by the <hi>Natives,</hi> continues unrepealed, and is our preſent <hi>Security;</hi> who are confident, the <hi>King</hi> is too Juſt, ever to ſend a <hi>Bill</hi> into that
+<hi>Kingdom,</hi> to take from many Thouſands of His <hi>Britiſh Subjects,</hi> that which they now enjoy by <hi>Law.</hi>
+            </p>
+            <p>The <hi>Gentleman</hi> ſeems to be very hard upon the Memory of the late <hi>King,</hi> when he diſplayeth his <hi>Rhetorick,</hi> to ſhew how contrary to <hi>Zeal, Piety,</hi> and
+<hi>Juſtice,</hi> it would be for His preſent <hi>Majeſty</hi> to confirm the <hi>Acts of Settlement;</hi> reflecting there<g ref="char:EOLhyphen"/>by upon King <hi>Charles the Second,</hi> that Acted con<g ref="char:EOLhyphen"/>trary to
+<hi>Zeal, Piety,</hi> and <hi>Juſtice,</hi> when he made
+<pb n="33" facs="tcp:64531:19"/>thoſe Laws. Queſtionleſs, our preſent <hi>Soveraign,</hi> will, upon all Occaſions, vindicate the Honour of his <hi>Brother;</hi> and I hope, He will think no way ſo proper, in this particular, as by Protecting that <hi>Settlement,</hi> which His
+<hi>Brother</hi> Eſtabliſh'd.</p>
+            <p>The <hi>Gentleman</hi> hath, it ſeems, an expedient to help all <hi>Matters,</hi> and yet he thinks fit to offer ſome in ſhort, which I fear too, are the beſt of his <hi>Intentions,</hi> altho' of a ſtrange Nature.</p>
+            <p>He would have His Majeſty <hi>Condemn Laws,</hi> as <hi>Defective,</hi> before any Perſon hath been heard in their <hi>Defence;</hi> and after his <hi>Judges,</hi> upon all oc<g ref="char:EOLhyphen"/>caſions, have judged them ſufficient.</p>
+            <p>He would have the Clauſe, concluding the <hi>Claims</hi> of thoſe not yet adjudged
+<hi>Innocent</hi> Recti<g ref="char:EOLhyphen"/>fied, (whereby, I preſume, he means <hi>Revoked</hi>) by which, the Perſons concern'd in the <hi>Lands</hi> formerly <hi>Forfeited,</hi> muſt, near <hi>Fifty Years</hi> after the <hi>Rebellion,</hi> be put to prove the <hi>Offences</hi> of par<g ref="char:EOLhyphen"/>ticular
+<hi>Perſons;</hi> ſeveral of whoſe <hi>Deſcendants</hi> act at preſent, in conſiderable
+<hi>Civil</hi> and <hi>Military Im<g ref="char:EOLhyphen"/>ployments;</hi> and ſome of them now, endeavouring to take off the <hi>Outlawries</hi> of their <hi>Anceſtors.</hi>
+            </p>
+            <p>Theſe are things ſo Unreaſonable, that cer<g ref="char:EOLhyphen"/>tainly they will never be hearkened unto, where they expect they ſhould.</p>
+            <pb n="34" facs="tcp:64531:20"/>
+            <p>At laſt, <hi>He doubts not, but Matters may be ad<g ref="char:EOLhyphen"/>juſted at the next Sitting of Parliament;</hi> but what <hi>Parliament</hi> he means, I cannot gueſs: if he means an
+<hi>Iriſh Parliament,</hi> freely and fairly Elected, he knows, That more than four Parts of five of it, muſt conſiſt of Perſons that will not break the <hi>Settlement:</hi> If he means ſuch a <hi>Parliament</hi> as the <hi>Iriſh</hi> deſigned, when they made the
+<hi>Articles</hi> in 1648. I am ſatisfied, few of the <hi>Britiſh</hi> muſt ex<g ref="char:EOLhyphen"/>pect to continue in the <hi>Poſſeſſion</hi> of any thing they now <hi>Enjoy,</hi> unleſs His
+<hi>Majeſty</hi> be graciouſly plea<g ref="char:EOLhyphen"/>ſed to Interpoſe. Certainly, he does not think of the
+<hi>Engliſh-Parliament,</hi> his Country-men (a<g ref="char:EOLhyphen"/>gainſt all Reaſon and Preſidents) not admitting, That <hi>Laws</hi> made in <hi>England,</hi> bind that <hi>Kingdom:</hi> But if he would have the <hi>Engliſh-Parliament</hi> Re<g ref="char:EOLhyphen"/>concile all <hi>Differences</hi> between us, I fee no rea<g ref="char:EOLhyphen"/>ſon why the <hi>Britiſh</hi> ſhould not Acquieſce, if it have His <hi>Majeſties</hi> Approbation.</p>
+            <p>I am come now to the <hi>Pamphlet,</hi> called, <hi>The Narrative of the Sale and Settlement of</hi> Ireland; but am reſolv'd to take no further notice of it, than to reflect on ſome few
+<hi>Matters of Fact,</hi> by which, the Truth of the whole <hi>Paper,</hi> (and what ſort of
+<hi>Adverſaries</hi> we have to deal with) may appear.</p>
+            <p>The <hi>Author</hi> makes an enumeration of the ſe<g ref="char:EOLhyphen"/>veral
+<pb n="35" facs="tcp:64531:20"/>Counties of <hi>Ireland,</hi> and tell us, <hi>Pag.</hi> 4. <hi>That in the Year</hi> 1653. <hi>Ten Counties were allotted to the Adventurers, Twelve conferr'd on</hi> Cromwell'<hi>s Sol<g ref="char:EOLhyphen"/>diers, Three given to Tranſplanted</hi> Iriſh, <hi>and Seven re<g ref="char:EOLhyphen"/>ſerved to the Common-wealth.</hi>
+            </p>
+            <p>The firſt miſtake (and that a wilful one too) is, that he affirms, That the
+<hi>Counties</hi> were thus diſpoſed; whereas it was only the <hi>Land Forfeited</hi> by the
+<hi>Rebellion,</hi> in thoſe <hi>Counties; Church-Lands, Proteſtant Lands, Conſtant, Good, Affectionate Mens Lands</hi> were not diſpoſed; and the <hi>Intereſts</hi> of thoſe were ſo conſiderable, That not a fourth Part of the Province of <hi>
+                  <g ref="char:V">Ʋ</g>lſter</hi> was Forfeited.</p>
+            <p>His next <hi>Error,</hi> which ſure proceeds from <hi>Ig<g ref="char:EOLhyphen"/>norance,</hi> is, <hi>That Ten Counties were given to Adventu<g ref="char:EOLhyphen"/>rers,</hi> whereas it is notoriouſly known, they had but the Moiety of the <hi>Forfeited Land</hi> in <hi>Ten Coun<g ref="char:EOLhyphen"/>ties,</hi> of which, near the half of that hath been ſince taken from them.</p>
+            <p>
+               <hi>Pag.</hi> 5. He ſays, <hi>Five Hundred Gentlemen, that Served the King in</hi> Flanders,
+<hi>are named in the</hi> Decla<g ref="char:EOLhyphen"/>ration: Let him reckon again, and he will find but <hi>Two Hundred Twenty Two;</hi> this is well ſtretcht; yet the modeſteſt miſtake in his
+<hi>Paper.</hi>
+            </p>
+            <p>
+               <hi>Pag.</hi> 6. He affirms, <hi>That taking off the Engagement, which</hi> (he ſays)
+<hi>the</hi> Iriſh <hi>were forced to do on pain of
+<pb n="36" facs="tcp:64531:21"/>Death, by</hi> Cromwell'<hi>s Army was made a Qualificati<g ref="char:EOLhyphen"/>on of</hi> Innocency,
+<hi>that none that had taken it, could be declared</hi> Innocent. And by this
+<hi>Qualification,</hi> he leaves his <hi>Reader</hi> to judge of the reſt, aggrava<g ref="char:EOLhyphen"/>ting the Matter with much <hi>Rhetorick.</hi>
+            </p>
+            <p>Certainly, this is a <hi>Falſhood</hi> ſo apparent, ſo eaſily diſcovered, that no Man that valued his <hi>Credit,</hi> would alledge it; 'Tis as <hi>Wilful,</hi> as 'tis
+<hi>Malitious:</hi> Had he reckoned the <hi>Qualifications</hi> in the <hi>Act of Settlement</hi> right, they are as he ſays, but not any thing of the <hi>Engagement,</hi> or any thing like it, amongſt them. I believed the occaſion of this was, he had told the World, That the
+<hi>Qualifications</hi> were ſo <hi>Severe</hi> and <hi>Rigid,</hi> that ſome thought it Morally impoſſible to find an <hi>Innocent;</hi> and yet, when he came to conſider them, he could pick out but <hi>One</hi> to <hi>Cavil</hi> at, and that put him upon this Notorious
+<hi>Invention.</hi>
+            </p>
+            <p>Pag. 7. <hi>Few of the</hi> Iriſh <hi>Peers were admitted to Sit in the Houſe of</hi> Lords,
+<hi>under pretence of former</hi> In<g ref="char:EOLhyphen"/>dictments.</p>
+            <p>Many of the <hi>Iriſh Peers</hi> Sate, none were ex<g ref="char:EOLhyphen"/>cluded upon pretence of
+<hi>Indictments,</hi> unleſs they were alſo attainted of <hi>High-Treaſon.</hi>
+            </p>
+            <p>Pag. 7. <hi>The Act of Settlement, alloweth only Twelve Months time to the Tryal of Innocents.</hi>
+            </p>
+            <pb n="41" facs="tcp:64531:21"/>
+            <p>The <hi>Act</hi> paſſed at a <hi>Ceſſation;</hi> which begun the 17th. of
+<hi>April,</hi> 1662. The time for the <hi>Tryal</hi> of <hi>In<g ref="char:EOLhyphen"/>nocents,</hi> was to be the firſt of <hi>Auguſt,</hi> 1662. By this it appeareth, there was not near a Years time for their
+<hi>Tryal;</hi> ſo that this miſtake in this place, ſeemeth to be to the diſadvantage of his <hi>Friends.</hi> But he had a further <hi>fetch,</hi> he reſolved not to own the kindneſs that the then <hi>Parliament</hi> of <hi>Ireland</hi> ſhewed thoſe that pretended to
+<hi>Innocency,</hi> giving them (after the time for their Tryal, by this <hi>Act,</hi> was expired) a year further, by another <hi>Act,</hi> being all they deſired.</p>
+            <p>Pag. 8. <hi>The Commiſſioners began their firſt Sitting the firſt of</hi> February.</p>
+            <p>This Man hath ſo perfectly fallen out with <hi>Truth,</hi> that it is impoſſible ever to reconcile them. The <hi>Commiſſioners</hi> began the <hi>Tryal</hi> of <hi>Innocents</hi> the
+30th. of <hi>January,</hi> 1662. They heard <hi>Twenty Seven</hi> conſiderable <hi>Claims</hi> before the firſt of <hi>February;</hi> and might have heard many more, had the <hi>Claimants</hi> been ready.</p>
+            <p>Pag. 10. <hi>The Fifty Two</hi> Nomenoes <hi>have not yet got Poſſeſſion of a Cottage of their Ancient Eſtates.</hi>
+            </p>
+            <p>This is falſe; many of them have got a conſi<g ref="char:EOLhyphen"/>derable part of their <hi>Antient Eſtates.</hi>
+            </p>
+            <p>Pag. 15. <hi>Since the Ceſſation of Arms, concluded in
+<pb n="42" facs="tcp:64531:22"/>the Year</hi> 1643, <hi>there was no more Fighting between His Majeſty's</hi> Proteſtant <hi>and</hi> Roman <hi>Catholick Subjects.</hi>
+            </p>
+            <p>Here he juſtifies the breaking of the <hi>Peace</hi> in 1646, and the Wicked and Malitious
+<hi>Actions</hi> of the <hi>Nuntio</hi>'s Party, the attempt upon <hi>Dublin</hi> by <hi>O Neile</hi> and <hi>Preſton,</hi> Excommunicating all that adher'd to the <hi>King</hi>'s
+<hi>Authority:</hi> All which, was, it ſeems, in this <hi>Gentleman</hi>'s Thoughts, no
+<hi>Fight<g ref="char:EOLhyphen"/>ing</hi> againſt the <hi>King.</hi>
+            </p>
+            <p>
+               <hi>Pag.</hi> 18. In this place he takes confidence to fix upon this <hi>King,</hi> when
+<hi>Duke of York,</hi> a foul A<g ref="char:EOLhyphen"/>ſperſion; by ſaying, <hi>The Lands of</hi> Miles Corbett,
+<hi>and other the Regicides, now in His Majeſty's Poſſeſsion, by Vertue of the Act of Settlement, were ſet out to thoſe Regicides, for no other Service, but the Sentence of Death they gave againſt King</hi> Charles <hi>the Firſt:</hi> Which is a moſt groſs
+<hi>Falſhood;</hi> for theſe <hi>Perſons</hi> had theſe <hi>Lands</hi> His
+<hi>Majeſty</hi> now enjoys, for <hi>Adventurers, Ar<g ref="char:EOLhyphen"/>rears, Proviſions,</hi> and other Conſiderations, com<g ref="char:EOLhyphen"/>mon with them and others; and not as a <hi>Reward,</hi> for Murdering the
+<hi>King.</hi>
+            </p>
+            <p>Pag. 19. <hi>By the Inſurrection, Four Hundred</hi> Engliſh<g ref="char:EOLhyphen"/>men <hi>could not be found Murdered in</hi> Ireland; <hi>as ap<g ref="char:EOLhyphen"/>pears by the Proceedings yet extant in</hi> Dublin.</p>
+            <p>'Tis certain, for all this Affirmation, That there were <hi>Examinations</hi> taken, by Vertue of the
+<pb n="43" facs="tcp:64531:22"/>
+               <hi>King</hi>'s <hi>Commiſſion,</hi> under the great <hi>Seal</hi> at
+<hi>Dublin;</hi> which prove the <hi>Murder</hi> of many <hi>Thouſands</hi> of the
+<hi>Britiſh</hi> in <hi>Ireland,</hi> at the firſt <hi>Inſurrection</hi> or
+<hi>Re<g ref="char:EOLhyphen"/>bellion,</hi> which you pleaſe.</p>
+            <p>Pag. 19. <hi>The Peace in</hi> 1648, <hi>was no ſooner Publiſhed, than all the Garriſons, Cities, and Magazines of the</hi> Iriſh, <hi>were put under the Command of the King</hi>'s
+<hi>Lieutenant.</hi>
+            </p>
+            <p>This is not ſo; the <hi>Confederates,</hi> by the <hi>Articles,</hi> reſerved them in their own Power and Poſſeſſi<g ref="char:EOLhyphen"/>on. The <hi>Story</hi> is too well known, how his Grace the <hi>Duke of Ormond</hi> (a Perſon of Eminent <hi>Loyalty</hi>) was moſt falſly abuſed in this
+<hi>Libel,</hi> then the <hi>King</hi>'s <hi>Lieutenant;</hi> and how he was uſed at
+<hi>Limerick, Waterford,</hi> and <hi>Gallaway,</hi> needs not be repeated.</p>
+            <p>Pag. 19. <hi>Notwithſtanding the Confederates were offer<g ref="char:EOLhyphen"/>ed any Conditions by the</hi> Uſurper, <hi>and Courted by the Parliament.</hi>
+            </p>
+            <p>The <hi>Confederates</hi> were never offered any <hi>ad<g ref="char:EOLhyphen"/>vantagious Conditions</hi> by the
+<hi>Uſurper;</hi> it is known, he abſolutely denied the <hi>Exerciſe</hi> of their
+<hi>Reli<g ref="char:EOLhyphen"/>gion.</hi> I wiſh ſome body, to convince the <hi>World,</hi> would give an Account of thoſe favourable <hi>Conditions,</hi> refuſed from the <hi>Uſurper,</hi> and of the glorious
+<hi>Courtſhips</hi> beſtowed on them by the <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> which are yet
+<hi>Secrets.</hi>
+            </p>
+            <p>Pag. 20. <hi>Solicited by ſome Neighbouring Potentates.</hi>
+            </p>
+            <pb n="44" facs="tcp:64531:23"/>
+            <p>There is good <hi>Evidence,</hi> they Solicited <hi>France, Spain, Rome,</hi> and
+<hi>Lorrain;</hi> but that They were So<g ref="char:EOLhyphen"/>licited, is not generally known: It had been well, if the
+<hi>Author</hi> had nam'd the <hi>Potentates.</hi>
+            </p>
+            <p>Pag. 22. <hi>Moſt of the Young Nobility and Gentry hav<g ref="char:EOLhyphen"/>ing followed His Majeſty into Foreign Countries.</hi>
+            </p>
+            <p>The <hi>Iriſh Gentry</hi> is very numerous: No Man was ever a <hi>Proprietor</hi> of
+<hi>Lands,</hi> or related in any de<g ref="char:EOLhyphen"/>gree to, or of the Name of a <hi>Proprietor</hi> in that
+<hi>Country,</hi> but he is eſteemed a <hi>Gentleman.</hi> What a Noble <hi>Army</hi> would the greateſt of theſe have amounted to? at leaſt <hi>Thirty Thouſand:</hi> And yet this very
+<hi>Author,</hi> a few <hi>Pages</hi> before, told us, <hi>There were but Five Hundred Gentlemen with the King in</hi> Flanders; and over-reckon'd them, too by more than half.</p>
+            <p>It is certain, many <hi>Iriſh Gentlemen</hi> Served the <hi>King</hi> beyond <hi>Sea,</hi> who deſerve much Praiſe without enquiring, how many were forced to go over by their
+<hi>Articles</hi> with the <hi>Uſurper:</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have peruſed a Liſt of thoſe <hi>Gentlemen</hi> in Hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Majeſty</hi>'s <hi>Declaration,</hi> of the 30th. of <hi>November</hi> 1660. and find them to be <hi>Two Hundred Twent<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> One;</hi> of which, there are of <hi>Original Iriſh Familie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> One Hundred Thirty Eight;</hi> and of the <hi>Old Engliſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eighty Three:</hi> There is not of that Liſt one <hi>Flem<g ref="char:EOLhyphen"/>ming,
+<pb n="45" facs="tcp:64531:23"/>Nugent, Barnwel, Tyrrel;</hi> and only Mr. <hi>Nicholas Plunket</hi> of
+<hi>Dunſhaghlin,</hi> of the Sirname of <hi>Plunket;</hi> whereas there are many more
+<hi>Gentlemen</hi> of thoſe Names, than the whole number in that <hi>Decla<g ref="char:EOLhyphen"/>ration</hi> amounts to. From whence it follows, That the <hi>Author</hi> is groſly miſtaken in his
+<hi>Aſſertion.</hi>
+            </p>
+            <p>Pag. 26. <hi>Preſbyterian Lords, Juſtices, Depoſed and Impriſoned by the King's Command.</hi>
+            </p>
+            <p>There were no <hi>Lords, Juſtices, Impriſoned</hi> by the <hi>King</hi>'s <hi>Command:</hi> This is a <hi>Romance,</hi> like the reſt. Here I cannot paſs by that which is common to this
+<hi>Author,</hi> (with many of his <hi>Country-men</hi>) the fixing upon all the <hi>Britiſh</hi> in <hi>Ireland,</hi> the odious Appellations of <hi>Preſbyterians, Phanaticks,</hi> and
+<hi>Crom<g ref="char:EOLhyphen"/>wellians:</hi> It hath been a Practice There formerly to call the <hi>Engliſh</hi> there amongſt them, by thoſe (they eſteemed moſt Scandalous) <hi>Names,</hi> given to any of the
+<hi>Nation;</hi> as in 1641. they were all ſtiled, <hi>Puritans:</hi> For my part, I do not think it fit to beſtow the title of <hi>Rebels, Nuntioiſts,</hi> ſo free<g ref="char:EOLhyphen"/>ly amongſt them; and yet, they muſt remem<g ref="char:EOLhyphen"/>ber, that the Faults of the <hi>Engliſh,</hi> who ſwerv'd from their Duty, are forgiven, and all Men for<g ref="char:EOLhyphen"/>bidden to upbraid them, by an <hi>Act of Oblivion,</hi> which They cannot yet pretend to.</p>
+            <pb n="46" facs="tcp:64531:24"/>
+            <p>Pag. 27. <hi>The Earl of</hi> Clarendon <hi>made it his Buſi<g ref="char:EOLhyphen"/>neſs to Exalt the</hi> French
+<hi>King.</hi>
+            </p>
+            <p>This is a high touch of <hi>Malice:</hi> Rather than he will not rail againſt the <hi>Earl of Clarendon,</hi> he will take occaſion from that <hi>Earls</hi> pretended Kindneſs to the
+<hi>French King.</hi> I am apt to believe tho', that he is out in this particular: But that ſome of his <hi>Country-men</hi> has had a greater Kind<g ref="char:EOLhyphen"/>neſs for that <hi>King,</hi> will appear by an
+<hi>Authentick Piece,</hi> I have put at the end of this <hi>Paper.</hi>
+            </p>
+            <p>The <hi>Author</hi> has thought it fit, (through his whole <hi>Pamphlet</hi>) to caſt moſt falſe and ſcanda<g ref="char:EOLhyphen"/>lous <hi>Aſperſions</hi> upon <hi>Perſons</hi> of great <hi>Honor</hi> and <hi>Integrity;</hi> of which I ſhall take no further notice, but leave him to <hi>Scorn</hi> and <hi>Contempt;</hi> which thoſe Noble <hi>Perſons</hi> have hitherto judged the beſt
+<hi>Anſwer</hi> to his <hi>Libel;</hi> only obſerving his unparal<g ref="char:EOLhyphen"/>lel'd <hi>Impudence</hi> and
+<hi>Malice,</hi> in charging the late <hi>Earl of Clarendon</hi> (whoſe many <hi>Juſt</hi> and
+<hi>Famous Actions</hi> will make him <hi>Famous</hi> to <hi>Poſterity</hi>) with abominable
+<hi>Calumnies;</hi> and that without any regard to <hi>Truth</hi> or <hi>Probability,</hi> or Reſpect to the <hi>Royal Family;</hi> to which He was ſo nearly Related.</p>
+            <pb n="47" facs="tcp:64531:24"/>
+            <p>By this <hi>Pamphlet,</hi> and other <hi>Books,</hi> Printed both at <hi>Home</hi> and
+<hi>Abroad,</hi> the Conditions of the <hi>Iriſh Nation</hi> is deſcribed, as the moſt
+<hi>Miſerable</hi> and <hi>Oppreſſed,</hi> as any <hi>People</hi> were ever in, under the Sun.</p>
+            <p>I could not ſee what happened during the <hi>War;</hi> yet have reaſon to believe, ſome of them did more Miſchief, than they could ſuffer: But, ſince King <hi>Charles the Second</hi>'s
+<hi>Reſtauration,</hi> they have no occaſion to complain; they have been equal<g ref="char:EOLhyphen"/>ly
+<hi>Protected</hi> by the <hi>Law;</hi> The free <hi>Exerciſe</hi> of their <hi>Religion</hi> hath been conniv'd at; There have ſtill been <hi>Pariſh Prieſts,</hi> in every
+<hi>Pariſh,</hi> competently maintained by the <hi>Iriſh Farmers;</hi> which the <hi>Britiſh Landlords</hi> ſuffered, to their great Diſprofit, when <hi>Diſſenting Proteſtants</hi> have been ſeverely <hi>Proſecuted,</hi> eſpecially in the <hi>Province</hi> of
+<hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and <hi>Indicted</hi> as <hi>Rioters,</hi> for <hi>Religious Aſſemblies:</hi> Great and fre<g ref="char:EOLhyphen"/>quent Meetings at <hi>Maſs,</hi> have not been taken notice of: They have been allowed to keep the <hi>Holy-Days</hi> of their own <hi>Church,</hi> and not forced to obſerve thoſe of the <hi>Proteſtants,</hi> I mean the <hi>Twen<g ref="char:EOLhyphen"/>ty Ninth</hi> of
+<hi>May,</hi> nor the <hi>Thirtieth</hi> of <hi>January,</hi> which, I never could hear they minded.</p>
+            <pb n="48" facs="tcp:64531:25"/>
+            <p>The poor ſort of <hi>Labourers</hi> and <hi>Farmers,</hi> in their own <hi>Opinions,</hi> lived better <hi>Lives,</hi> than ever their <hi>Anceſtors</hi> knew; receiving <hi>Wages,</hi> and having <hi>Terms</hi> of the <hi>Land</hi> they <hi>Manured:</hi> Thoſe ſort of
+<hi>People,</hi> being the moſt numerous, wiſht, without doubt, in their <hi>Hearts,</hi> for the Continuance of the pre<g ref="char:EOLhyphen"/>ſent <hi>Settlement.</hi>
+            </p>
+            <p>The <hi>Artificers, Tradeſmen,</hi> and <hi>Merchants,</hi> were admitted freely to follow their reſpective <hi>Cal<g ref="char:EOLhyphen"/>lings</hi> in <hi>Corporations;</hi> if there were <hi>Laws</hi> to the contrary, they were not put in <hi>Practice.</hi>
+            </p>
+            <p>The <hi>Proprietors</hi> amongſt them, which proved their <hi>Innocency,</hi> were Reſtored to their <hi>Poſſeſsion,</hi> without further Suit at <hi>Law;</hi> and, for the moſt part, found their <hi>Land</hi> in better condition, than when they loſt them: All difficulties in the
+<hi>Act of Settlement,</hi> have been judged in their <hi>Favour:</hi> Abundance of great
+<hi>Eſtates</hi> have been Reſtored to ſeveral of them, who never proved their
+<hi>In<g ref="char:EOLhyphen"/>nocency;</hi> nay, ſome of them have large Grants of the <hi>Forfeited Lands</hi> of their
+<hi>Country-men.</hi> The moſt of the <hi>Forfeited Lands</hi> in the Counties of <hi>Galloway, Clare,</hi> and <hi>Roſcommon,</hi> are given to ſuch <hi>Proprietors,</hi> who loſt their
+<hi>Eſtates</hi> in other Places; with this particular Favour, That if any of
+<pb n="47" facs="tcp:64531:25"/>them, before he had paſſed a <hi>Patent,</hi> had con<g ref="char:EOLhyphen"/>veyed his ſhare to a <hi>Proteſtant,</hi> the <hi>Purchaſer</hi> was obliged to retrench a <hi>Third Part,</hi> towards the ſatisfaction of thoſe <hi>Iriſh:</hi> But if the <hi>Iriſh Proprietors</hi> kept his Proportion, he was allow<g ref="char:EOLhyphen"/>ed a <hi>Patent</hi> for the Whole.</p>
+            <p>All <hi>Free-holders,</hi> without diſtinction, were admitted to paſs on <hi>Juries;</hi> to be <hi>Electors</hi> of, or <hi>Elected Parliament-men;</hi> and none excluded out of the
+<hi>Houſe of Lords,</hi> for <hi>Religion.</hi>
+            </p>
+            <p>I ſay nothing of their preſent <hi>Condition,</hi> not having been lately <hi>There;</hi> but, certainly, had they continued as they were, they have not much reaſon to exclaim.</p>
+            <p>There are other <hi>Arguments,</hi> againſt break<g ref="char:EOLhyphen"/>ing of the preſent <hi>Settlement,</hi> of more conſe<g ref="char:EOLhyphen"/>quence than any herein mentioned; which I purpoſely omit, as not proper for me to meddle with: Yet, I cannot conclude, with<g ref="char:EOLhyphen"/>out remembring, once more, the <hi>Opinion</hi> of
+<hi>James,</hi> late Earl of <hi>Caſtle-haven;</hi> who was him<g ref="char:EOLhyphen"/>ſelf, not only a <hi>Roman Catholick,</hi> but one of the moſt conſiderable of the <hi>Confederate Ro<g ref="char:EOLhyphen"/>man Catholicks</hi> of <hi>Ireland;</hi> and one that knew their <hi>Deſigns,</hi> as well as any amongſt them:
+<pb n="48" facs="tcp:64531:26"/>He then has declared, <hi>That it was moſt proba<g ref="char:EOLhyphen"/>ble, that if the</hi> Nuntio<hi>'s Party, in the Year,</hi> 1646. <hi>had had all</hi> Ireland, <hi>it would have remained ſepa<g ref="char:EOLhyphen"/>rate from</hi> England <hi>for ever:</hi> Which <hi>Nuntio</hi>'s Party, at that
+<hi>Time,</hi> conſiſted of all the <hi>Con<g ref="char:EOLhyphen"/>federate Roman</hi> Catholicks in <hi>Ireland,</hi> except this Earl of <hi>Caſtle-haven,</hi> and ſome few o<g ref="char:EOLhyphen"/>thers.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64531:26"/>
+            <pb n="4" facs="tcp:64531:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:64531:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:64531:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:64531:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:64531:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:64531:31"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:64531:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:64531:32"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:64531:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:64531:33"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:64531:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:64531:34"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:64531:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:64531:35"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:64531:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:64531:36"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:64531:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:64531:37"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:64531:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:64531:38"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="24" facs="tcp:64531:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:39"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="26" facs="tcp:64531:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="27" facs="tcp:64531:40"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="28" facs="tcp:64531:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="29" facs="tcp:64531:41"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="30" facs="tcp:64531:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="31" facs="tcp:64531:42"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="32" facs="tcp:64531:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="33" facs="tcp:64531:43"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="34" facs="tcp:64531:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="35" facs="tcp:64531:44"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="36" facs="tcp:64531:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="41" facs="tcp:64531:45"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="42" facs="tcp:64531:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="43" facs="tcp:64531:46"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="44" facs="tcp:64531:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="45" facs="tcp:64531:47"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="46" facs="tcp:64531:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="47" facs="tcp:64531:48"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="48" facs="tcp:64531:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="49" facs="tcp:64531:49"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="50" facs="tcp:64531:50"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64531:50"/>
+         </div>
+      </body>
+   </text>
+</TEI>
